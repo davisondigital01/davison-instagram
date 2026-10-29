@@ -3,7 +3,7 @@
   "id": "orig-001",
   "versao": "original",
   "agendado_para": "2026-10-30T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "gestao-antiwoke",
   "isbn": "9786550479022",
   "titulo": "Gestão Antiwoke",
@@ -19,7 +19,8 @@
    "img/gestao-antiwoke-05.jpg",
    "img/gestao-antiwoke-06.jpg",
    "img/gestao-antiwoke-07.jpg"
-  ]
+  ],
+  "iniciado_em": "2026-10-29T09:21:49-03:00"
  },
  {
   "id": "orig-002",
