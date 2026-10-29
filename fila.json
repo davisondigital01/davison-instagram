@@ -1319,12 +1319,13 @@
   "versao": "original",
   "depende": "orig-001",
   "agendado_para": "2026-10-29T10:30:00-03:00",
-  "status": "bloqueado",
+  "status": "publicando",
   "slug": "gestao-antiwoke",
   "isbn": "9786550479022",
   "titulo": "Gestão Antiwoke",
   "autor": "Tallis Gomes",
-  "video": "vid/gestao-antiwoke.mp4"
+  "video": "vid/gestao-antiwoke.mp4",
+  "iniciado_em": "2026-10-29T10:16:28-03:00"
  },
  {
   "id": "story-002",
