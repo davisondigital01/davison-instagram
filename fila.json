@@ -22,7 +22,8 @@
   ],
   "iniciado_em": "2026-10-29T09:46:55-03:00",
   "publicado_em": "2026-10-29T09:47:55-03:00",
-  "media_id": "18070954016768179"
+  "media_id": "18070954016768179",
+  "tipo": "carrossel"
  },
  {
   "id": "orig-002",
@@ -44,7 +45,8 @@
    "img/autobiografia-de-um-iogue-05.jpg",
    "img/autobiografia-de-um-iogue-06.jpg",
    "img/autobiografia-de-um-iogue-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-003",
@@ -66,7 +68,8 @@
    "img/as-18-leis-do-dinheiro-05.jpg",
    "img/as-18-leis-do-dinheiro-06.jpg",
    "img/as-18-leis-do-dinheiro-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-004",
@@ -88,7 +91,8 @@
    "img/rosie-e-finn-05.jpg",
    "img/rosie-e-finn-06.jpg",
    "img/rosie-e-finn-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-005",
@@ -110,7 +114,8 @@
    "img/o-fim-do-sofrimento-emocional-05.jpg",
    "img/o-fim-do-sofrimento-emocional-06.jpg",
    "img/o-fim-do-sofrimento-emocional-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-006",
@@ -132,7 +137,8 @@
    "img/arca-thiago-nigro-05.jpg",
    "img/arca-thiago-nigro-06.jpg",
    "img/arca-thiago-nigro-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-007",
@@ -154,7 +160,8 @@
    "img/o-amor-clovis-de-barros-05.jpg",
    "img/o-amor-clovis-de-barros-06.jpg",
    "img/o-amor-clovis-de-barros-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-008",
@@ -176,7 +183,8 @@
    "img/o-simples-vence-05.jpg",
    "img/o-simples-vence-06.jpg",
    "img/o-simples-vence-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-009",
@@ -198,7 +206,8 @@
    "img/1826-rodrigo-trespach-05.jpg",
    "img/1826-rodrigo-trespach-06.jpg",
    "img/1826-rodrigo-trespach-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-010",
@@ -220,7 +229,8 @@
    "img/inteligencia-pragmatica-05.jpg",
    "img/inteligencia-pragmatica-06.jpg",
    "img/inteligencia-pragmatica-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-011",
@@ -242,7 +252,8 @@
    "img/a-arte-da-felicidade-romero-britto-05.jpg",
    "img/a-arte-da-felicidade-romero-britto-06.jpg",
    "img/a-arte-da-felicidade-romero-britto-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-012",
@@ -264,7 +275,8 @@
    "img/a-arte-da-negociacao-05.jpg",
    "img/a-arte-da-negociacao-06.jpg",
    "img/a-arte-da-negociacao-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-013",
@@ -286,7 +298,8 @@
    "img/a-metamorfose-kafka-05.jpg",
    "img/a-metamorfose-kafka-06.jpg",
    "img/a-metamorfose-kafka-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-014",
@@ -308,7 +321,8 @@
    "img/a-meta-goldratt-05.jpg",
    "img/a-meta-goldratt-06.jpg",
    "img/a-meta-goldratt-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-015",
@@ -330,7 +344,8 @@
    "img/a-revolucao-dos-bichos-05.jpg",
    "img/a-revolucao-dos-bichos-06.jpg",
    "img/a-revolucao-dos-bichos-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-016",
@@ -352,7 +367,8 @@
    "img/apaixone-se-pelo-problema-05.jpg",
    "img/apaixone-se-pelo-problema-06.jpg",
    "img/apaixone-se-pelo-problema-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-017",
@@ -374,7 +390,8 @@
    "img/as-parabolas-de-jesus-05.jpg",
    "img/as-parabolas-de-jesus-06.jpg",
    "img/as-parabolas-de-jesus-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-018",
@@ -396,7 +413,8 @@
    "img/a-prova-de-balas-50-cent-05.jpg",
    "img/a-prova-de-balas-50-cent-06.jpg",
    "img/a-prova-de-balas-50-cent-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-019",
@@ -418,7 +436,8 @@
    "img/box-estrategias-para-conquistar-a-mente-05.jpg",
    "img/box-estrategias-para-conquistar-a-mente-06.jpg",
    "img/box-estrategias-para-conquistar-a-mente-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-020",
@@ -440,7 +459,8 @@
    "img/a-psicologia-do-triunfo-05.jpg",
    "img/a-psicologia-do-triunfo-06.jpg",
    "img/a-psicologia-do-triunfo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-021",
@@ -462,7 +482,8 @@
    "img/as-pessoas-mudam-05.jpg",
    "img/as-pessoas-mudam-06.jpg",
    "img/as-pessoas-mudam-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-022",
@@ -484,7 +505,8 @@
    "img/atitude-mental-positiva-05.jpg",
    "img/atitude-mental-positiva-06.jpg",
    "img/atitude-mental-positiva-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-023",
@@ -506,7 +528,8 @@
    "img/a-tecnologia-e-voce-05.jpg",
    "img/a-tecnologia-e-voce-06.jpg",
    "img/a-tecnologia-e-voce-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-024",
@@ -528,7 +551,8 @@
    "img/cabeca-de-campeao-05.jpg",
    "img/cabeca-de-campeao-06.jpg",
    "img/cabeca-de-campeao-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-025",
@@ -550,7 +574,8 @@
    "img/como-se-tornar-sobrenatural-05.jpg",
    "img/como-se-tornar-sobrenatural-06.jpg",
    "img/como-se-tornar-sobrenatural-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-026",
@@ -572,7 +597,8 @@
    "img/contos-de-terror-medico-05.jpg",
    "img/contos-de-terror-medico-06.jpg",
    "img/contos-de-terror-medico-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-027",
@@ -594,7 +620,8 @@
    "img/em-mim-basta-05.jpg",
    "img/em-mim-basta-06.jpg",
    "img/em-mim-basta-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-028",
@@ -616,7 +643,8 @@
    "img/eles-nao-estao-mortos-05.jpg",
    "img/eles-nao-estao-mortos-06.jpg",
    "img/eles-nao-estao-mortos-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-029",
@@ -638,7 +666,8 @@
    "img/em-nome-do-povo-05.jpg",
    "img/em-nome-do-povo-06.jpg",
    "img/em-nome-do-povo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-030",
@@ -660,7 +689,8 @@
    "img/fe-e-esperanca-2027-05.jpg",
    "img/fe-e-esperanca-2027-06.jpg",
    "img/fe-e-esperanca-2027-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-031",
@@ -682,7 +712,8 @@
    "img/1984-e-a-revolucao-dos-bichos-05.jpg",
    "img/1984-e-a-revolucao-dos-bichos-06.jpg",
    "img/1984-e-a-revolucao-dos-bichos-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-032",
@@ -704,7 +735,8 @@
    "img/habitos-dos-milionarios-05.jpg",
    "img/habitos-dos-milionarios-06.jpg",
    "img/habitos-dos-milionarios-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-033",
@@ -726,7 +758,8 @@
    "img/hotel-cativeiro-05.jpg",
    "img/hotel-cativeiro-06.jpg",
    "img/hotel-cativeiro-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-034",
@@ -748,7 +781,8 @@
    "img/legado-rodrigo-silva-05.jpg",
    "img/legado-rodrigo-silva-06.jpg",
    "img/legado-rodrigo-silva-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-035",
@@ -770,7 +804,8 @@
    "img/iliada-e-odisseia-clovis-explica-05.jpg",
    "img/iliada-e-odisseia-clovis-explica-06.jpg",
    "img/iliada-e-odisseia-clovis-explica-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-036",
@@ -792,7 +827,8 @@
    "img/mais-que-amigo-lider-05.jpg",
    "img/mais-que-amigo-lider-06.jpg",
    "img/mais-que-amigo-lider-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-037",
@@ -814,7 +850,8 @@
    "img/mais-esperto-que-o-diabo-05.jpg",
    "img/mais-esperto-que-o-diabo-06.jpg",
    "img/mais-esperto-que-o-diabo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-038",
@@ -836,7 +873,8 @@
    "img/marco-aurelio-o-imperador-estoico-05.jpg",
    "img/marco-aurelio-o-imperador-estoico-06.jpg",
    "img/marco-aurelio-o-imperador-estoico-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-039",
@@ -858,7 +896,8 @@
    "img/mais-esperto-que-o-diabo-2-05.jpg",
    "img/mais-esperto-que-o-diabo-2-06.jpg",
    "img/mais-esperto-que-o-diabo-2-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-040",
@@ -880,7 +919,8 @@
    "img/meditacoes-marco-aurelio-05.jpg",
    "img/meditacoes-marco-aurelio-06.jpg",
    "img/meditacoes-marco-aurelio-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-041",
@@ -902,7 +942,8 @@
    "img/negociai-ate-que-eu-volte-05.jpg",
    "img/negociai-ate-que-eu-volte-06.jpg",
    "img/negociai-ate-que-eu-volte-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-042",
@@ -924,7 +965,8 @@
    "img/noites-brancas-dostoievski-05.jpg",
    "img/noites-brancas-dostoievski-06.jpg",
    "img/noites-brancas-dostoievski-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-043",
@@ -946,7 +988,8 @@
    "img/mentalidade-de-alto-nivel-05.jpg",
    "img/mentalidade-de-alto-nivel-06.jpg",
    "img/mentalidade-de-alto-nivel-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-044",
@@ -968,7 +1011,8 @@
    "img/o-livro-secreto-do-escritor-05.jpg",
    "img/o-livro-secreto-do-escritor-06.jpg",
    "img/o-livro-secreto-do-escritor-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-045",
@@ -990,7 +1034,8 @@
    "img/metodo-yellowfisic-05.jpg",
    "img/metodo-yellowfisic-06.jpg",
    "img/metodo-yellowfisic-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-046",
@@ -1012,7 +1057,8 @@
    "img/profissoes-em-colapso-05.jpg",
    "img/profissoes-em-colapso-06.jpg",
    "img/profissoes-em-colapso-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-047",
@@ -1034,7 +1080,8 @@
    "img/nao-e-milagre-joel-jota-05.jpg",
    "img/nao-e-milagre-joel-jota-06.jpg",
    "img/nao-e-milagre-joel-jota-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-048",
@@ -1056,7 +1103,8 @@
    "img/quando-o-amor-recomeca-05.jpg",
    "img/quando-o-amor-recomeca-06.jpg",
    "img/quando-o-amor-recomeca-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-049",
@@ -1078,7 +1126,8 @@
    "img/o-apagamento-05.jpg",
    "img/o-apagamento-06.jpg",
    "img/o-apagamento-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-050",
@@ -1100,7 +1149,8 @@
    "img/um-dia-sem-medo-05.jpg",
    "img/um-dia-sem-medo-06.jpg",
    "img/um-dia-sem-medo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-051",
@@ -1122,7 +1172,8 @@
    "img/o-homem-que-comprou-o-tempo-05.jpg",
    "img/o-homem-que-comprou-o-tempo-06.jpg",
    "img/o-homem-que-comprou-o-tempo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-052",
@@ -1144,7 +1195,8 @@
    "img/21-direcoes-vida-fora-da-curva-05.jpg",
    "img/21-direcoes-vida-fora-da-curva-06.jpg",
    "img/21-direcoes-vida-fora-da-curva-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-053",
@@ -1166,7 +1218,8 @@
    "img/o-manuscrito-original-05.jpg",
    "img/o-manuscrito-original-06.jpg",
    "img/o-manuscrito-original-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-054",
@@ -1188,7 +1241,8 @@
    "img/quebrando-o-habito-de-ser-voce-mesmo-05.jpg",
    "img/quebrando-o-habito-de-ser-voce-mesmo-06.jpg",
    "img/quebrando-o-habito-de-ser-voce-mesmo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-055",
@@ -1210,7 +1264,8 @@
    "img/quem-pensa-enriquece-o-legado-05.jpg",
    "img/quem-pensa-enriquece-o-legado-06.jpg",
    "img/quem-pensa-enriquece-o-legado-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-056",
@@ -1232,7 +1287,8 @@
    "img/umdiasemreclamar-05.jpg",
    "img/umdiasemreclamar-06.jpg",
    "img/umdiasemreclamar-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
  },
  {
   "id": "orig-057",
@@ -1254,6 +1310,1489 @@
    "img/voce-e-o-placebo-05.jpg",
    "img/voce-e-o-placebo-06.jpg",
    "img/voce-e-o-placebo-07.jpg"
-  ]
+  ],
+  "tipo": "carrossel"
+ },
+ {
+  "id": "story-001",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-001",
+  "agendado_para": "2026-10-29T10:30:00-03:00",
+  "status": "bloqueado",
+  "slug": "gestao-antiwoke",
+  "isbn": "9786550479022",
+  "titulo": "Gestão Antiwoke",
+  "autor": "Tallis Gomes",
+  "video": "vid/gestao-antiwoke.mp4"
+ },
+ {
+  "id": "story-002",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-002",
+  "agendado_para": "2026-10-30T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "autobiografia-de-um-iogue",
+  "isbn": "9786550478759",
+  "titulo": "Autobiografia de um Iogue",
+  "autor": "Paramahansa Yogananda",
+  "video": "vid/autobiografia-de-um-iogue.mp4"
+ },
+ {
+  "id": "story-003",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-003",
+  "agendado_para": "2026-10-30T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "as-18-leis-do-dinheiro",
+  "isbn": "9786550475369",
+  "titulo": "As 18 leis do dinheiro",
+  "autor": "Charles Mendlowicz",
+  "video": "vid/as-18-leis-do-dinheiro.mp4"
+ },
+ {
+  "id": "story-004",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-004",
+  "agendado_para": "2026-10-30T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "rosie-e-finn",
+  "isbn": "9786550478490",
+  "titulo": "Rosie & Finn",
+  "autor": "Fundação Napoleon Hill",
+  "video": "vid/rosie-e-finn.mp4"
+ },
+ {
+  "id": "story-005",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-005",
+  "agendado_para": "2026-10-31T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-fim-do-sofrimento-emocional",
+  "isbn": "9786550478278",
+  "titulo": "O fim do sofrimento emocional",
+  "autor": "William Sanches",
+  "video": "vid/o-fim-do-sofrimento-emocional.mp4"
+ },
+ {
+  "id": "story-006",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-006",
+  "agendado_para": "2026-10-31T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "arca-thiago-nigro",
+  "isbn": "9786550477752",
+  "titulo": "ARCA",
+  "autor": "Thiago Nigro",
+  "video": "vid/arca-thiago-nigro.mp4"
+ },
+ {
+  "id": "story-007",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-007",
+  "agendado_para": "2026-10-31T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-amor-clovis-de-barros",
+  "isbn": "9786550478131",
+  "titulo": "O amor",
+  "autor": "Clóvis de Barros Filho",
+  "video": "vid/o-amor-clovis-de-barros.mp4"
+ },
+ {
+  "id": "story-008",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-008",
+  "agendado_para": "2026-10-31T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-simples-vence",
+  "isbn": "9786550478216",
+  "titulo": "O Simples Vence",
+  "autor": "Uri Levine",
+  "video": "vid/o-simples-vence.mp4"
+ },
+ {
+  "id": "story-009",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-009",
+  "agendado_para": "2026-11-01T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "1826-rodrigo-trespach",
+  "isbn": "9786550478377",
+  "titulo": "1826",
+  "autor": "Rodrigo Trespach",
+  "video": "vid/1826-rodrigo-trespach.mp4"
+ },
+ {
+  "id": "story-010",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-010",
+  "agendado_para": "2026-11-01T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "inteligencia-pragmatica",
+  "isbn": "9786550477639",
+  "titulo": "Inteligência Pragmática",
+  "autor": "Max Peters",
+  "video": "vid/inteligencia-pragmatica.mp4"
+ },
+ {
+  "id": "story-011",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-011",
+  "agendado_para": "2026-11-01T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-arte-da-felicidade-romero-britto",
+  "isbn": "9786550478414",
+  "titulo": "A Arte da Felicidade",
+  "autor": "Romero Britto",
+  "video": "vid/a-arte-da-felicidade-romero-britto.mp4"
+ },
+ {
+  "id": "story-012",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-012",
+  "agendado_para": "2026-11-01T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-arte-da-negociacao",
+  "isbn": "9788568014479",
+  "titulo": "A arte da negociação",
+  "autor": "Donald Trump",
+  "video": "vid/a-arte-da-negociacao.mp4"
+ },
+ {
+  "id": "story-013",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-013",
+  "agendado_para": "2026-11-02T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-metamorfose-kafka",
+  "isbn": "9786550478636",
+  "titulo": "A Metamorfose",
+  "autor": "Franz Kafka",
+  "video": "vid/a-metamorfose-kafka.mp4"
+ },
+ {
+  "id": "story-014",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-014",
+  "agendado_para": "2026-11-02T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-meta-goldratt",
+  "isbn": "9786550474614",
+  "titulo": "A Meta",
+  "autor": "Eliyahu M. Goldratt",
+  "video": "vid/a-meta-goldratt.mp4"
+ },
+ {
+  "id": "story-015",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-015",
+  "agendado_para": "2026-11-02T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-revolucao-dos-bichos",
+  "isbn": "9786587885728",
+  "titulo": "A revolução dos bichos",
+  "autor": "George Orwell",
+  "video": "vid/a-revolucao-dos-bichos.mp4"
+ },
+ {
+  "id": "story-016",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-016",
+  "agendado_para": "2026-11-02T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "apaixone-se-pelo-problema",
+  "isbn": "9786550472429",
+  "titulo": "Apaixone-se pelo problema, não pela solução",
+  "autor": "Uri Levine",
+  "video": "vid/apaixone-se-pelo-problema.mp4"
+ },
+ {
+  "id": "story-017",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-017",
+  "agendado_para": "2026-11-03T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "as-parabolas-de-jesus",
+  "isbn": "9786550479046",
+  "titulo": "As Parábolas de Jesus",
+  "autor": "Clóvis de Barros Filho",
+  "video": "vid/as-parabolas-de-jesus.mp4"
+ },
+ {
+  "id": "story-018",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-018",
+  "agendado_para": "2026-11-03T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-prova-de-balas-50-cent",
+  "isbn": "9786550478391",
+  "titulo": "À Prova de Balas",
+  "autor": "50 Cent",
+  "video": "vid/a-prova-de-balas-50-cent.mp4"
+ },
+ {
+  "id": "story-019",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-019",
+  "agendado_para": "2026-11-03T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "box-estrategias-para-conquistar-a-mente",
+  "isbn": "9786550471675",
+  "titulo": "Box Estratégias para conquistar a mente",
+  "autor": "Sun Tzu, Maquiavel e Musashi",
+  "video": "vid/box-estrategias-para-conquistar-a-mente.mp4"
+ },
+ {
+  "id": "story-020",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-020",
+  "agendado_para": "2026-11-03T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-psicologia-do-triunfo",
+  "isbn": "9786550478452",
+  "titulo": "A Psicologia do Triunfo",
+  "autor": "Denis Waitley",
+  "video": "vid/a-psicologia-do-triunfo.mp4"
+ },
+ {
+  "id": "story-021",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-021",
+  "agendado_para": "2026-11-04T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "as-pessoas-mudam",
+  "isbn": "9786550478919",
+  "titulo": "As Pessoas Mudam",
+  "autor": "Dra. Vivian Ritter",
+  "video": "vid/as-pessoas-mudam.mp4"
+ },
+ {
+  "id": "story-022",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-022",
+  "agendado_para": "2026-11-04T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "atitude-mental-positiva",
+  "isbn": "9788568014059",
+  "titulo": "Atitude mental positiva",
+  "autor": "Napoleon Hill e W. Clement Stone",
+  "video": "vid/atitude-mental-positiva.mp4"
+ },
+ {
+  "id": "story-023",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-023",
+  "agendado_para": "2026-11-04T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-tecnologia-e-voce",
+  "isbn": "9786550478698",
+  "titulo": "A Tecnologia e Você: Quem Controla Quem?",
+  "autor": "Marcus Fontoura",
+  "video": "vid/a-tecnologia-e-voce.mp4"
+ },
+ {
+  "id": "story-024",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-024",
+  "agendado_para": "2026-11-04T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "cabeca-de-campeao",
+  "isbn": "9786550474539",
+  "titulo": "Cabeça de Campeão",
+  "autor": "François Ducasse",
+  "video": "vid/cabeca-de-campeao.mp4"
+ },
+ {
+  "id": "story-025",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-025",
+  "agendado_para": "2026-11-05T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "como-se-tornar-sobrenatural",
+  "isbn": "9786550470517",
+  "titulo": "Como se tornar sobrenatural",
+  "autor": "Joe Dispenza",
+  "video": "vid/como-se-tornar-sobrenatural.mp4"
+ },
+ {
+  "id": "story-026",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-026",
+  "agendado_para": "2026-11-05T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "contos-de-terror-medico",
+  "isbn": "9786550478575",
+  "titulo": "Contos de Terror Médico",
+  "autor": "Rogério Gomes",
+  "video": "vid/contos-de-terror-medico.mp4"
+ },
+ {
+  "id": "story-027",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-027",
+  "agendado_para": "2026-11-05T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "em-mim-basta",
+  "isbn": "9786550471415",
+  "titulo": "Em mim basta!",
+  "autor": "William Sanches",
+  "video": "vid/em-mim-basta.mp4"
+ },
+ {
+  "id": "story-028",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-028",
+  "agendado_para": "2026-11-05T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "eles-nao-estao-mortos",
+  "isbn": "9786550478896",
+  "titulo": "Eles não Estão Mortos",
+  "autor": "Paulo Lima (Sr. Cimit)",
+  "video": "vid/eles-nao-estao-mortos.mp4"
+ },
+ {
+  "id": "story-029",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-029",
+  "agendado_para": "2026-11-06T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "em-nome-do-povo",
+  "isbn": "9786550474799",
+  "titulo": "Em nome do povo",
+  "autor": "Bruno Perini",
+  "video": "vid/em-nome-do-povo.mp4"
+ },
+ {
+  "id": "story-030",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-030",
+  "agendado_para": "2026-11-06T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "fe-e-esperanca-2027",
+  "isbn": "9786550478612",
+  "titulo": "Fé e Esperança para Cada Dia – Vol. IV (2027)",
+  "autor": "Flávio Valvassoura",
+  "video": "vid/fe-e-esperanca-2027.mp4"
+ },
+ {
+  "id": "story-031",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-031",
+  "agendado_para": "2026-11-06T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "1984-e-a-revolucao-dos-bichos",
+  "isbn": "9786587885346",
+  "titulo": "1984 + A revolução dos bichos",
+  "autor": "George Orwell",
+  "video": "vid/1984-e-a-revolucao-dos-bichos.mp4"
+ },
+ {
+  "id": "story-032",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-032",
+  "agendado_para": "2026-11-06T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "habitos-dos-milionarios",
+  "isbn": "9786587885032",
+  "titulo": "Hábitos dos milionários",
+  "autor": "Napoleon Hill",
+  "video": "vid/habitos-dos-milionarios.mp4"
+ },
+ {
+  "id": "story-033",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-033",
+  "agendado_para": "2026-11-07T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "hotel-cativeiro",
+  "isbn": "9786550478674",
+  "titulo": "Hotel Cativeiro",
+  "autor": "Vanessa Giácomo e Gabriela Dioguardi",
+  "video": "vid/hotel-cativeiro.mp4"
+ },
+ {
+  "id": "story-034",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-034",
+  "agendado_para": "2026-11-07T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "legado-rodrigo-silva",
+  "isbn": "9786550478438",
+  "titulo": "Legado",
+  "autor": "Rodrigo Silva",
+  "video": "vid/legado-rodrigo-silva.mp4"
+ },
+ {
+  "id": "story-035",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-035",
+  "agendado_para": "2026-11-07T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "iliada-e-odisseia-clovis-explica",
+  "isbn": "9786550475857",
+  "titulo": "Ilíada & Odisseia (Série Clóvis explica)",
+  "autor": "Clóvis de Barros Filho",
+  "video": "vid/iliada-e-odisseia-clovis-explica.mp4"
+ },
+ {
+  "id": "story-036",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-036",
+  "agendado_para": "2026-11-07T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mais-que-amigo-lider",
+  "isbn": "9786550478339",
+  "titulo": "Mais que amigo, líder",
+  "autor": "Cézar Haik",
+  "video": "vid/mais-que-amigo-lider.mp4"
+ },
+ {
+  "id": "story-037",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-037",
+  "agendado_para": "2026-11-08T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mais-esperto-que-o-diabo",
+  "isbn": "9788568014004",
+  "titulo": "Mais esperto que o diabo",
+  "autor": "Napoleon Hill",
+  "video": "vid/mais-esperto-que-o-diabo.mp4"
+ },
+ {
+  "id": "story-038",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-038",
+  "agendado_para": "2026-11-08T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "marco-aurelio-o-imperador-estoico",
+  "isbn": "9786550478537",
+  "titulo": "Marco Aurélio, o Imperador Estoico",
+  "autor": "Donald Robertson",
+  "video": "vid/marco-aurelio-o-imperador-estoico.mp4"
+ },
+ {
+  "id": "story-039",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-039",
+  "agendado_para": "2026-11-08T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mais-esperto-que-o-diabo-2",
+  "isbn": "9786550475239",
+  "titulo": "Mais Esperto que o Diabo 2",
+  "autor": "Fundação Napoleon Hill",
+  "video": "vid/mais-esperto-que-o-diabo-2.mp4"
+ },
+ {
+  "id": "story-040",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-040",
+  "agendado_para": "2026-11-08T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "meditacoes-marco-aurelio",
+  "isbn": "9786587885339",
+  "titulo": "Meditações",
+  "autor": "Marco Aurélio",
+  "video": "vid/meditacoes-marco-aurelio.mp4"
+ },
+ {
+  "id": "story-041",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-041",
+  "agendado_para": "2026-11-09T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "negociai-ate-que-eu-volte",
+  "isbn": "9786550478551",
+  "titulo": "Negociai até que Eu volte",
+  "autor": "Daniel Cardoso",
+  "video": "vid/negociai-ate-que-eu-volte.mp4"
+ },
+ {
+  "id": "story-042",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-042",
+  "agendado_para": "2026-11-09T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "noites-brancas-dostoievski",
+  "isbn": "9786550478650",
+  "titulo": "Noites Brancas",
+  "autor": "Fiódor Dostoiévski",
+  "video": "vid/noites-brancas-dostoievski.mp4"
+ },
+ {
+  "id": "story-043",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-043",
+  "agendado_para": "2026-11-09T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mentalidade-de-alto-nivel",
+  "isbn": "9786550477851",
+  "titulo": "Mentalidade de alto nível",
+  "autor": "Vinícius Iracet",
+  "video": "vid/mentalidade-de-alto-nivel.mp4"
+ },
+ {
+  "id": "story-044",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-044",
+  "agendado_para": "2026-11-09T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-livro-secreto-do-escritor",
+  "isbn": "9786550478353",
+  "titulo": "O Livro Secreto do Escritor – Edição Atualizada",
+  "autor": "Lilian Cardoso",
+  "video": "vid/o-livro-secreto-do-escritor.mp4"
+ },
+ {
+  "id": "story-045",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-045",
+  "agendado_para": "2026-11-10T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "metodo-yellowfisic",
+  "isbn": "9786550470524",
+  "titulo": "Método de ativação quântica Yellowfisic",
+  "autor": "William Sanches",
+  "video": "vid/metodo-yellowfisic.mp4"
+ },
+ {
+  "id": "story-046",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-046",
+  "agendado_para": "2026-11-10T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "profissoes-em-colapso",
+  "isbn": "9786550478872",
+  "titulo": "Profissões em Colapso",
+  "autor": "Walter Longo e Cris Partel",
+  "video": "vid/profissoes-em-colapso.mp4"
+ },
+ {
+  "id": "story-047",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-047",
+  "agendado_para": "2026-11-10T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "nao-e-milagre-joel-jota",
+  "isbn": "9786550475499",
+  "titulo": "Não é milagre!",
+  "autor": "Joel Jota",
+  "video": "vid/nao-e-milagre-joel-jota.mp4"
+ },
+ {
+  "id": "story-048",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-048",
+  "agendado_para": "2026-11-10T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "quando-o-amor-recomeca",
+  "isbn": "9786550478599",
+  "titulo": "Quando o Amor Recomeça",
+  "autor": "Ricardo Martins e Vanessa Lima",
+  "video": "vid/quando-o-amor-recomeca.mp4"
+ },
+ {
+  "id": "story-049",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-049",
+  "agendado_para": "2026-11-11T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-apagamento",
+  "isbn": "9786550477110",
+  "titulo": "O apagamento",
+  "autor": "Eslen Delanogare",
+  "video": "vid/o-apagamento.mp4"
+ },
+ {
+  "id": "story-050",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-050",
+  "agendado_para": "2026-11-11T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "um-dia-sem-medo",
+  "isbn": "9786550478476",
+  "titulo": "Um Dia sem Medo",
+  "autor": "Juliano Pimentel",
+  "video": "vid/um-dia-sem-medo.mp4"
+ },
+ {
+  "id": "story-051",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-051",
+  "agendado_para": "2026-11-11T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-homem-que-comprou-o-tempo",
+  "isbn": "9786550474461",
+  "titulo": "O homem que comprou o tempo",
+  "autor": "Thiago Nigro",
+  "video": "vid/o-homem-que-comprou-o-tempo.mp4"
+ },
+ {
+  "id": "story-052",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-052",
+  "agendado_para": "2026-11-11T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "21-direcoes-vida-fora-da-curva",
+  "isbn": "9786550479008",
+  "titulo": "21 Direções para uma Vida Fora da Curva",
+  "autor": "Vinícius Iracet",
+  "video": "vid/21-direcoes-vida-fora-da-curva.mp4"
+ },
+ {
+  "id": "story-053",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-053",
+  "agendado_para": "2026-11-12T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-manuscrito-original",
+  "isbn": "9788568014264",
+  "titulo": "O manuscrito original",
+  "autor": "Napoleon Hill",
+  "video": "vid/o-manuscrito-original.mp4"
+ },
+ {
+  "id": "story-054",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-054",
+  "agendado_para": "2026-11-12T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "quebrando-o-habito-de-ser-voce-mesmo",
+  "isbn": "9788568014325",
+  "titulo": "Quebrando o hábito de ser você mesmo",
+  "autor": "Joe Dispenza",
+  "video": "vid/quebrando-o-habito-de-ser-voce-mesmo.mp4"
+ },
+ {
+  "id": "story-055",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-055",
+  "agendado_para": "2026-11-12T18:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "quem-pensa-enriquece-o-legado",
+  "isbn": "9788568014547",
+  "titulo": "Quem pensa enriquece – O legado",
+  "autor": "Napoleon Hill",
+  "video": "vid/quem-pensa-enriquece-o-legado.mp4"
+ },
+ {
+  "id": "story-056",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-056",
+  "agendado_para": "2026-11-12T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "umdiasemreclamar",
+  "isbn": "9786587885049",
+  "titulo": "#umdiasemreclamar",
+  "autor": "Marcelo Galuppo e Davi Lago",
+  "video": "vid/umdiasemreclamar.mp4"
+ },
+ {
+  "id": "story-057",
+  "tipo": "story",
+  "versao": "original",
+  "depende": "orig-057",
+  "agendado_para": "2026-11-13T07:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "voce-e-o-placebo",
+  "isbn": "9786550470043",
+  "titulo": "Você é o placebo",
+  "autor": "Joe Dispenza",
+  "video": "vid/voce-e-o-placebo.mp4"
+ },
+ {
+  "id": "reel-001",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-10-30T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "em-nome-do-povo",
+  "isbn": "9786550474799",
+  "titulo": "Em nome do povo",
+  "autor": "Bruno Perini",
+  "legenda": "Em 10 anos, seu dinheiro pode valer metade do que vale hoje.\n\n📖 Em nome do povo — Bruno Perini | Citadel\n🔗 Link na bio\n\n#EmNomeDoPovo #BrunoPerini #Economia #Dinheiro #Investimentos #EducacaoFinanceira #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/em-nome-do-povo.mp4"
+ },
+ {
+  "id": "reel-002",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-10-30T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "fe-e-esperanca-2027",
+  "isbn": "9786550478612",
+  "titulo": "Fé e Esperança para Cada Dia – Vol. IV (2027)",
+  "autor": "Flávio Valvassoura",
+  "legenda": "Um encontro diário com Deus para atravessar 2027 com fé.\n\n📖 Fé e Esperança para Cada Dia – Vol. IV (2027) — Flávio Valvassoura | Citadel\n🔗 Link na bio\n\n#FeEEsperanca #FlavioValvassoura #Devocional #Fe #Oracao #PalavraDeDeus #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/fe-e-esperanca-2027.mp4"
+ },
+ {
+  "id": "reel-003",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-10-31T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "1984-e-a-revolucao-dos-bichos",
+  "isbn": "9786587885346",
+  "titulo": "1984 + A revolução dos bichos",
+  "autor": "George Orwell",
+  "legenda": "Dois clássicos de George Orwell. Um só volume.\n\n📖 1984 + A revolução dos bichos — George Orwell | Citadel\n🔗 Link na bio\n\n#1984 #ARevolucaoDosBichos #GeorgeOrwell #Classicos #Distopia #Literatura #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/1984-e-a-revolucao-dos-bichos.mp4"
+ },
+ {
+  "id": "reel-004",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-10-31T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "habitos-dos-milionarios",
+  "isbn": "9786587885032",
+  "titulo": "Hábitos dos milionários",
+  "autor": "Napoleon Hill",
+  "legenda": "As pessoas mais bem-sucedidas do mundo têm os mesmos hábitos. Quais são?\n\n📖 Hábitos dos milionários — Napoleon Hill | Citadel\n🔗 Link na bio\n\n#HabitosDosMilionarios #NapoleonHill #Habitos #Prosperidade #Sucesso #Mentalidade #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/habitos-dos-milionarios.mp4"
+ },
+ {
+  "id": "reel-005",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-01T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "hotel-cativeiro",
+  "isbn": "9786550478674",
+  "titulo": "Hotel Cativeiro",
+  "autor": "Vanessa Giácomo e Gabriela Dioguardi",
+  "legenda": "Toda cidade guarda segredos. Este hotel aprisiona todos eles.\n\n📖 Hotel Cativeiro — Vanessa Giácomo e Gabriela Dioguardi | Citadel\n🔗 Link na bio\n\n#HotelCativeiro #VanessaGiacomo #Thriller #Suspense #LiteraturaNacional #Ficcao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/hotel-cativeiro.mp4"
+ },
+ {
+  "id": "reel-006",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-01T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "legado-rodrigo-silva",
+  "isbn": "9786550478438",
+  "titulo": "Legado",
+  "autor": "Rodrigo Silva",
+  "legenda": "Todos deixarão uma marca no mundo. Qual será a sua?\n\n📖 Legado — Rodrigo Silva | Citadel\n🔗 Link na bio\n\n#Legado #RodrigoSilva #Proposito #Fe #Reflexao #Desenvolvimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/legado-rodrigo-silva.mp4"
+ },
+ {
+  "id": "reel-007",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-02T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "iliada-e-odisseia-clovis-explica",
+  "isbn": "9786550475857",
+  "titulo": "Ilíada & Odisseia (Série Clóvis explica)",
+  "autor": "Clóvis de Barros Filho",
+  "legenda": "Duas obras de quase 3 mil anos podem ajudar você a viver melhor hoje?\n\n📖 Ilíada & Odisseia (Série Clóvis explica) — Clóvis de Barros Filho | Citadel\n🔗 Link na bio\n\n#IliadaEOdisseia #ClovisDeBarrosFilho #Homero #Filosofia #Classicos #ClovisExplica #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #historia #reels",
+  "video": "vid/iliada-e-odisseia-clovis-explica.mp4"
+ },
+ {
+  "id": "reel-008",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-02T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mais-que-amigo-lider",
+  "isbn": "9786550478339",
+  "titulo": "Mais que amigo, líder",
+  "autor": "Cézar Haik",
+  "legenda": "Liderar não é ser querido. É transformar pessoas e entregar resultados.\n\n📖 Mais que amigo, líder — Cézar Haik | Citadel\n🔗 Link na bio\n\n#MaisQueAmigoLider #CezarHaik #Lideranca #Gestao #AltaPerformance #Equipes #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/mais-que-amigo-lider.mp4"
+ },
+ {
+  "id": "reel-009",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-03T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mais-esperto-que-o-diabo",
+  "isbn": "9788568014004",
+  "titulo": "Mais esperto que o diabo",
+  "autor": "Napoleon Hill",
+  "legenda": "Uma entrevista com o Diabo, guardada em segredo por 75 anos.\n\n📖 Mais esperto que o diabo — Napoleon Hill | Citadel\n🔗 Link na bio\n\n#MaisEspertoQueODiabo #NapoleonHill #Mentalidade #Medo #Liberdade #BestSeller #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/mais-esperto-que-o-diabo.mp4"
+ },
+ {
+  "id": "reel-010",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-03T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "marco-aurelio-o-imperador-estoico",
+  "isbn": "9786550478537",
+  "titulo": "Marco Aurélio, o Imperador Estoico",
+  "autor": "Donald Robertson",
+  "legenda": "Para entender o estoicismo, conheça primeiro o homem que o viveu.\n\n📖 Marco Aurélio, o Imperador Estoico — Donald Robertson | Citadel\n🔗 Link na bio\n\n#MarcoAurelio #Estoicismo #DonaldRobertson #Filosofia #RomaAntiga #Biografia #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #historia #reels",
+  "video": "vid/marco-aurelio-o-imperador-estoico.mp4"
+ },
+ {
+  "id": "reel-011",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-04T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mais-esperto-que-o-diabo-2",
+  "isbn": "9786550475239",
+  "titulo": "Mais Esperto que o Diabo 2",
+  "autor": "Fundação Napoleon Hill",
+  "legenda": "Saber das armadilhas não basta. Agora é hora do plano de ação.\n\n📖 Mais Esperto que o Diabo 2 — Fundação Napoleon Hill | Citadel\n🔗 Link na bio\n\n#MaisEspertoQueODiabo2 #NapoleonHill #PlanoDeAcao #Disciplina #Sucesso #Mentalidade #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/mais-esperto-que-o-diabo-2.mp4"
+ },
+ {
+  "id": "reel-012",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-04T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "meditacoes-marco-aurelio",
+  "isbn": "9786587885339",
+  "titulo": "Meditações",
+  "autor": "Marco Aurélio",
+  "legenda": "O diário de um imperador que ainda guia líderes 2 mil anos depois.\n\n📖 Meditações — Marco Aurélio | Citadel\n🔗 Link na bio\n\n#Meditacoes #MarcoAurelio #Estoicismo #Filosofia #Lideranca #Classicos #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #historia #reels",
+  "video": "vid/meditacoes-marco-aurelio.mp4"
+ },
+ {
+  "id": "reel-013",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-05T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "negociai-ate-que-eu-volte",
+  "isbn": "9786550478551",
+  "titulo": "Negociai até que Eu volte",
+  "autor": "Daniel Cardoso",
+  "legenda": "O mercado também é um campo de missão.\n\n📖 Negociai até que Eu volte — Daniel Cardoso | Citadel\n🔗 Link na bio\n\n#NegociaiAteQueEuVolte #DanielCardoso #FeENegocios #Empreendedorismo #ReinoDeDeus #Lideranca #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/negociai-ate-que-eu-volte.mp4"
+ },
+ {
+  "id": "reel-014",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-05T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "noites-brancas-dostoievski",
+  "isbn": "9786550478650",
+  "titulo": "Noites Brancas",
+  "autor": "Fiódor Dostoiévski",
+  "legenda": "Quatro noites. Dois desconhecidos. Um encontro que dura a vida inteira.\n\n📖 Noites Brancas — Fiódor Dostoiévski | Citadel\n🔗 Link na bio\n\n#NoitesBrancas #Dostoievski #Classicos #LiteraturaRussa #Romance #LiteraturaClassica #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/noites-brancas-dostoievski.mp4"
+ },
+ {
+  "id": "reel-015",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-06T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "mentalidade-de-alto-nivel",
+  "isbn": "9786550477851",
+  "titulo": "Mentalidade de alto nível",
+  "autor": "Vinícius Iracet",
+  "legenda": "Não existe vida nova sem uma nova forma de pensar.\n\n📖 Mentalidade de alto nível — Vinícius Iracet | Citadel\n🔗 Link na bio\n\n#MentalidadeDeAltoNivel #ViniciusIracet #Metanoia #Mentalidade #Fe #Desenvolvimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/mentalidade-de-alto-nivel.mp4"
+ },
+ {
+  "id": "reel-016",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-06T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-livro-secreto-do-escritor",
+  "isbn": "9786550478353",
+  "titulo": "O Livro Secreto do Escritor – Edição Atualizada",
+  "autor": "Lilian Cardoso",
+  "legenda": "\"Eu adoraria escrever um livro, mas não sei por onde começar.\" Agora sabe.\n\n📖 O Livro Secreto do Escritor – Edição Atualizada — Lilian Cardoso | Citadel\n🔗 Link na bio\n\n#OLivroSecretoDoEscritor #LilianCardoso #Escrita #Escritores #MercadoEditorial #PublicarLivro #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/o-livro-secreto-do-escritor.mp4"
+ },
+ {
+  "id": "reel-017",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-07T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "metodo-yellowfisic",
+  "isbn": "9786550470524",
+  "titulo": "Método de ativação quântica Yellowfisic",
+  "autor": "William Sanches",
+  "legenda": "Mudar sua realidade nunca foi tão fácil.\n\n📖 Método de ativação quântica Yellowfisic — William Sanches | Citadel\n🔗 Link na bio\n\n#Yellowfisic #WilliamSanches #Afirmacoes #Autoconhecimento #Motivacao #BemEstar #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/metodo-yellowfisic.mp4"
+ },
+ {
+  "id": "reel-018",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-07T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "profissoes-em-colapso",
+  "isbn": "9786550478872",
+  "titulo": "Profissões em Colapso",
+  "autor": "Walter Longo e Cris Partel",
+  "legenda": "Nunca foi tão difícil escolher uma profissão. E tão perigoso achar que é para sempre.\n\n📖 Profissões em Colapso — Walter Longo e Cris Partel | Citadel\n🔗 Link na bio\n\n#ProfissoesEmColapso #WalterLongo #Carreira #FuturoDoTrabalho #Tecnologia #Inovacao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/profissoes-em-colapso.mp4"
+ },
+ {
+  "id": "reel-019",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-08T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "nao-e-milagre-joel-jota",
+  "isbn": "9786550475499",
+  "titulo": "Não é milagre!",
+  "autor": "Joel Jota",
+  "legenda": "A vida que você quer começa com um único dia bem vivido.\n\n📖 Não é milagre! — Joel Jota | Citadel\n🔗 Link na bio\n\n#NaoEMilagre #JoelJota #Rotina #Habitos #AltaPerformance #Produtividade #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/nao-e-milagre-joel-jota.mp4"
+ },
+ {
+  "id": "reel-020",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-08T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "quando-o-amor-recomeca",
+  "isbn": "9786550478599",
+  "titulo": "Quando o Amor Recomeça",
+  "autor": "Ricardo Martins e Vanessa Lima",
+  "legenda": "Nem toda história termina quando a confiança é quebrada. Algumas começam ali.\n\n📖 Quando o Amor Recomeça — Ricardo Martins e Vanessa Lima | Citadel\n🔗 Link na bio\n\n#QuandoOAmorRecomeca #Casamento #Relacionamento #Perdao #Familia #Restauracao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #autoconhecimento #reels",
+  "video": "vid/quando-o-amor-recomeca.mp4"
+ },
+ {
+  "id": "reel-021",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-09T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-apagamento",
+  "isbn": "9786550477110",
+  "titulo": "O apagamento",
+  "autor": "Eslen Delanogare",
+  "legenda": "E se as palavras começassem a desaparecer dos livros?\n\n📖 O apagamento — Eslen Delanogare | Citadel\n🔗 Link na bio\n\n#OApagamento #EslenDelanogare #Distopia #Ficcao #LiteraturaNacional #Memoria #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/o-apagamento.mp4"
+ },
+ {
+  "id": "reel-022",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-09T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "um-dia-sem-medo",
+  "isbn": "9786550478476",
+  "titulo": "Um Dia sem Medo",
+  "autor": "Juliano Pimentel",
+  "legenda": "O medo pode estar presente. Mas ele não pode ter a palavra final.\n\n📖 Um Dia sem Medo — Juliano Pimentel | Citadel\n🔗 Link na bio\n\n#UmDiaSemMedo #JulianoPimentel #Coragem #Ansiedade #SaudeEmocional #Autoconhecimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/um-dia-sem-medo.mp4"
+ },
+ {
+  "id": "reel-023",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-10T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-homem-que-comprou-o-tempo",
+  "isbn": "9786550474461",
+  "titulo": "O homem que comprou o tempo",
+  "autor": "Thiago Nigro",
+  "legenda": "E se o seu ativo mais valioso não fosse dinheiro, mas tempo?\n\n📖 O homem que comprou o tempo — Thiago Nigro | Citadel\n🔗 Link na bio\n\n#OHomemQueComprouOTempo #ThiagoNigro #OPrimoRico #Tempo #Prosperidade #Legado #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/o-homem-que-comprou-o-tempo.mp4"
+ },
+ {
+  "id": "reel-024",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-10T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "21-direcoes-vida-fora-da-curva",
+  "isbn": "9786550479008",
+  "titulo": "21 Direções para uma Vida Fora da Curva",
+  "autor": "Vinícius Iracet",
+  "legenda": "Sua vida não muda enquanto sua mentalidade continua a mesma.\n\n📖 21 Direções para uma Vida Fora da Curva — Vinícius Iracet | Citadel\n🔗 Link na bio\n\n#21Direcoes #ViniciusIracet #VidaForaDaCurva #Mentalidade #Fe #Proposito #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/21-direcoes-vida-fora-da-curva.mp4"
+ },
+ {
+  "id": "reel-025",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-11T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-manuscrito-original",
+  "isbn": "9788568014264",
+  "titulo": "O manuscrito original",
+  "autor": "Napoleon Hill",
+  "legenda": "Mais de 20 anos de pesquisa sobre o sucesso num único livro.\n\n📖 O manuscrito original — Napoleon Hill | Citadel\n🔗 Link na bio\n\n#OManuscritoOriginal #NapoleonHill #LeisDoSucesso #Sucesso #Classico #Mentalidade #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/o-manuscrito-original.mp4"
+ },
+ {
+  "id": "reel-026",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-11T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "quebrando-o-habito-de-ser-voce-mesmo",
+  "isbn": "9788568014325",
+  "titulo": "Quebrando o hábito de ser você mesmo",
+  "autor": "Joe Dispenza",
+  "legenda": "Você não está condenado a ser quem sempre foi.\n\n📖 Quebrando o hábito de ser você mesmo — Joe Dispenza | Citadel\n🔗 Link na bio\n\n#QuebrandoOHabito #JoeDispenza #Neurociencia #Mente #Transformacao #Meditacao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/quebrando-o-habito-de-ser-voce-mesmo.mp4"
+ },
+ {
+  "id": "reel-027",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-12T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "quem-pensa-enriquece-o-legado",
+  "isbn": "9788568014547",
+  "titulo": "Quem pensa enriquece – O legado",
+  "autor": "Napoleon Hill",
+  "legenda": "Não muda só o que você pensa. Muda o modo como você pensa.\n\n📖 Quem pensa enriquece – O legado — Napoleon Hill | Citadel\n🔗 Link na bio\n\n#QuemPensaEnriquece #NapoleonHill #PenseEEnriqueca #Sucesso #Mentalidade #Classico #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/quem-pensa-enriquece-o-legado.mp4"
+ },
+ {
+  "id": "reel-028",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-12T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "voce-e-o-placebo",
+  "isbn": "9786550470043",
+  "titulo": "Você é o placebo",
+  "autor": "Joe Dispenza",
+  "legenda": "Até onde vai o poder da mente sobre o corpo?\n\n📖 Você é o placebo — Joe Dispenza | Citadel\n🔗 Link na bio\n\n#VoceEOPlacebo #JoeDispenza #EfeitoPlacebo #Mente #Neurociencia #Meditacao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/voce-e-o-placebo.mp4"
+ },
+ {
+  "id": "reel-029",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-13T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "umdiasemreclamar",
+  "isbn": "9786587885049",
+  "titulo": "#umdiasemreclamar",
+  "autor": "Marcelo Galuppo e Davi Lago",
+  "legenda": "Você conseguiria passar 24 horas sem reclamar?\n\n📖 #umdiasemreclamar — Marcelo Galuppo e Davi Lago | Citadel\n🔗 Link na bio\n\n#UmDiaSemReclamar #Gratidao #DaviLago #Desafio #BemEstar #Mentalidade #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #autoconhecimento #reels",
+  "video": "vid/umdiasemreclamar.mp4"
+ },
+ {
+  "id": "reel-030",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-13T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "gestao-antiwoke",
+  "isbn": "9786550479022",
+  "titulo": "Gestão Antiwoke",
+  "autor": "Tallis Gomes",
+  "legenda": "Ele renunciou ao cargo de CEO. E diz que esse foi seu maior ato de liderança.\n\n📖 Gestão Antiwoke — Tallis Gomes | Citadel\n🔗 Link na bio\n\n#GestaoAntiwoke #TallisGomes #G4 #Lideranca #Gestao #Empreendedorismo #Negocios #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/gestao-antiwoke.mp4"
+ },
+ {
+  "id": "reel-031",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-14T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "autobiografia-de-um-iogue",
+  "isbn": "9786550478759",
+  "titulo": "Autobiografia de um Iogue",
+  "autor": "Paramahansa Yogananda",
+  "legenda": "O relato espiritual que atravessou gerações e continua mudando vidas.\n\n📖 Autobiografia de um Iogue — Paramahansa Yogananda | Citadel\n🔗 Link na bio\n\n#AutobiografiaDeUmIogue #Yogananda #Espiritualidade #Yoga #KriyaYoga #Meditacao #Autoconhecimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/autobiografia-de-um-iogue.mp4"
+ },
+ {
+  "id": "reel-032",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-14T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "as-18-leis-do-dinheiro",
+  "isbn": "9786550475369",
+  "titulo": "As 18 leis do dinheiro",
+  "autor": "Charles Mendlowicz",
+  "legenda": "Você não é pobre porque o dinheiro odeia você. Talvez esteja jogando o jogo errado.\n\n📖 As 18 leis do dinheiro — Charles Mendlowicz | Citadel\n🔗 Link na bio\n\n#As18LeisDoDinheiro #CharlesMendlowicz #EconomistaSincero #EducacaoFinanceira #Investimentos #Dinheiro #Financas #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/as-18-leis-do-dinheiro.mp4"
+ },
+ {
+  "id": "reel-033",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-15T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "rosie-e-finn",
+  "isbn": "9786550478490",
+  "titulo": "Rosie & Finn",
+  "autor": "Fundação Napoleon Hill",
+  "legenda": "Uma aventura sobre desejo, entusiasmo e acreditar nos próprios sonhos.\n\n📖 Rosie & Finn — Fundação Napoleon Hill | Citadel\n🔗 Link na bio\n\n#RosieEFinn #NapoleonHill #LivroInfantil #LeituraInfantil #Maternidade #Educacao #LiteraturaInfantil #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/rosie-e-finn.mp4"
+ },
+ {
+  "id": "reel-034",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-15T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-fim-do-sofrimento-emocional",
+  "isbn": "9786550478278",
+  "titulo": "O fim do sofrimento emocional",
+  "autor": "William Sanches",
+  "legenda": "Quantas vezes você sorriu por fora enquanto desmoronava por dentro?\n\n📖 O fim do sofrimento emocional — William Sanches | Citadel\n🔗 Link na bio\n\n#OFimDoSofrimentoEmocional #WilliamSanches #AmorProprio #SaudeEmocional #Autoconhecimento #Perdao #Desenvolvimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/o-fim-do-sofrimento-emocional.mp4"
+ },
+ {
+  "id": "reel-035",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-16T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "arca-thiago-nigro",
+  "isbn": "9786550477752",
+  "titulo": "ARCA",
+  "autor": "Thiago Nigro",
+  "legenda": "Quando o mundo entra em colapso, a maioria afunda. Alguns poucos prosperam.\n\n📖 ARCA — Thiago Nigro | Citadel\n🔗 Link na bio\n\n#ARCA #ThiagoNigro #OPrimoRico #Investimentos #EducacaoFinanceira #Patrimonio #Financas #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/arca-thiago-nigro.mp4"
+ },
+ {
+  "id": "reel-036",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-16T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-amor-clovis-de-barros",
+  "isbn": "9786550478131",
+  "titulo": "O amor",
+  "autor": "Clóvis de Barros Filho",
+  "legenda": "Um banquete de ideias sobre o mais lindo e fascinante dos temas.\n\n📖 O amor — Clóvis de Barros Filho | Citadel\n🔗 Link na bio\n\n#OAmor #ClovisDeBarrosFilho #Filosofia #Platao #OBanquete #Amor #Reflexao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/o-amor-clovis-de-barros.mp4"
+ },
+ {
+  "id": "reel-037",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-17T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "o-simples-vence",
+  "isbn": "9786550478216",
+  "titulo": "O Simples Vence",
+  "autor": "Uri Levine",
+  "legenda": "O cofundador do Waze revela por que \"feito\" quase sempre vence \"perfeito\".\n\n📖 O Simples Vence — Uri Levine | Citadel\n🔗 Link na bio\n\n#OSimplesVence #UriLevine #Waze #Startups #Empreendedorismo #Inovacao #Negocios #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/o-simples-vence.mp4"
+ },
+ {
+  "id": "reel-038",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-17T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "1826-rodrigo-trespach",
+  "isbn": "9786550478377",
+  "titulo": "1826",
+  "autor": "Rodrigo Trespach",
+  "legenda": "Há 200 anos, eles cruzaram um oceano para recomeçar do zero no litoral gaúcho.\n\n📖 1826 — Rodrigo Trespach | Citadel\n🔗 Link na bio\n\n#1826 #RodrigoTrespach #HistoriaDoBrasil #ImigracaoAlema #RioGrandeDoSul #Torres #LivrosDeHistoria #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #historia #reels",
+  "video": "vid/1826-rodrigo-trespach.mp4"
+ },
+ {
+  "id": "reel-039",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-18T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "inteligencia-pragmatica",
+  "isbn": "9786550477639",
+  "titulo": "Inteligência Pragmática",
+  "autor": "Max Peters",
+  "legenda": "Inteligência não é saber mais. É conseguir o que você quer.\n\n📖 Inteligência Pragmática — Max Peters | Citadel\n🔗 Link na bio\n\n#InteligenciaPragmatica #MaxPeters #Produtividade #Foco #Metas #AltaPerformance #Desenvolvimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/inteligencia-pragmatica.mp4"
+ },
+ {
+  "id": "reel-040",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-18T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-arte-da-felicidade-romero-britto",
+  "isbn": "9786550478414",
+  "titulo": "A Arte da Felicidade",
+  "autor": "Romero Britto",
+  "legenda": "Do Recife para o mundo: a história por trás das cores de Romero Britto.\n\n📖 A Arte da Felicidade — Romero Britto | Citadel\n🔗 Link na bio\n\n#AArteDaFelicidade #RomeroBritto #Arte #Biografia #Inspiracao #ArteBrasileira #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/a-arte-da-felicidade-romero-britto.mp4"
+ },
+ {
+  "id": "reel-041",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-19T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-arte-da-negociacao",
+  "isbn": "9788568014479",
+  "titulo": "A arte da negociação",
+  "autor": "Donald Trump",
+  "legenda": "\"Se você vai pensar de qualquer jeito, pode muito bem pensar grande.\"\n\n📖 A arte da negociação — Donald Trump | Citadel\n🔗 Link na bio\n\n#AArteDaNegociacao #Negociacao #Negocios #Empreendedorismo #ClassicoDeNegocios #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/a-arte-da-negociacao.mp4"
+ },
+ {
+  "id": "reel-042",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-19T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-metamorfose-kafka",
+  "isbn": "9786550478636",
+  "titulo": "A Metamorfose",
+  "autor": "Franz Kafka",
+  "legenda": "Um homem acorda transformado. O mais assustador é como a família reage.\n\n📖 A Metamorfose — Franz Kafka | Citadel\n🔗 Link na bio\n\n#AMetamorfose #Kafka #FranzKafka #Classicos #LiteraturaClassica #LiteraturaAlema #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/a-metamorfose-kafka.mp4"
+ },
+ {
+  "id": "reel-043",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-20T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-meta-goldratt",
+  "isbn": "9786550474614",
+  "titulo": "A Meta",
+  "autor": "Eliyahu M. Goldratt",
+  "legenda": "90 dias para salvar uma fábrica. Ou tudo fecha.\n\n📖 A Meta — Eliyahu M. Goldratt | Citadel\n🔗 Link na bio\n\n#AMeta #Goldratt #TeoriaDasRestricoes #Gestao #Administracao #Lideranca #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/a-meta-goldratt.mp4"
+ },
+ {
+  "id": "reel-044",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-20T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-revolucao-dos-bichos",
+  "isbn": "9786587885728",
+  "titulo": "A revolução dos bichos",
+  "autor": "George Orwell",
+  "legenda": "\"Todos os animais são iguais, mas alguns são mais iguais do que outros.\"\n\n📖 A revolução dos bichos — George Orwell | Citadel\n🔗 Link na bio\n\n#ARevolucaoDosBichos #GeorgeOrwell #Orwell #Classicos #Literatura #Distopia #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/a-revolucao-dos-bichos.mp4"
+ },
+ {
+  "id": "reel-045",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-21T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "apaixone-se-pelo-problema",
+  "isbn": "9786550472429",
+  "titulo": "Apaixone-se pelo problema, não pela solução",
+  "autor": "Uri Levine",
+  "legenda": "Ele criou dois unicórnios. E começou se apaixonando pelo problema.\n\n📖 Apaixone-se pelo problema, não pela solução — Uri Levine | Citadel\n🔗 Link na bio\n\n#ApaixoneSePeloProblema #UriLevine #Waze #Startups #Empreendedorismo #Inovacao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/apaixone-se-pelo-problema.mp4"
+ },
+ {
+  "id": "reel-046",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-21T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "as-parabolas-de-jesus",
+  "isbn": "9786550479046",
+  "titulo": "As Parábolas de Jesus",
+  "autor": "Clóvis de Barros Filho",
+  "legenda": "E se você estivesse entendendo Jesus do jeito errado?\n\n📖 As Parábolas de Jesus — Clóvis de Barros Filho | Citadel\n🔗 Link na bio\n\n#AsParabolasDeJesus #ClovisDeBarrosFilho #Filosofia #Fe #Jesus #Reflexao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #espiritualidade #reels",
+  "video": "vid/as-parabolas-de-jesus.mp4"
+ },
+ {
+  "id": "reel-047",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-22T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-prova-de-balas-50-cent",
+  "isbn": "9786550478391",
+  "titulo": "À Prova de Balas",
+  "autor": "50 Cent",
+  "legenda": "Ele levou nove tiros. Depois, construiu um império.\n\n📖 À Prova de Balas — 50 Cent | Citadel\n🔗 Link na bio\n\n#AProvaDeBalas #50Cent #Reinvencao #Empreendedorismo #Biografia #Motivacao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/a-prova-de-balas-50-cent.mp4"
+ },
+ {
+  "id": "reel-048",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-22T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "box-estrategias-para-conquistar-a-mente",
+  "isbn": "9786550471675",
+  "titulo": "Box Estratégias para conquistar a mente",
+  "autor": "Sun Tzu, Maquiavel e Musashi",
+  "legenda": "Três mentes estratégicas. Séculos de sabedoria. Um só box.\n\n📖 Box Estratégias para conquistar a mente — Sun Tzu, Maquiavel e Musashi | Citadel\n🔗 Link na bio\n\n#ArteDaGuerra #SunTzu #Maquiavel #Musashi #Estrategia #Classicos #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #historia #reels",
+  "video": "vid/box-estrategias-para-conquistar-a-mente.mp4"
+ },
+ {
+  "id": "reel-049",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-23T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-psicologia-do-triunfo",
+  "isbn": "9786550478452",
+  "titulo": "A Psicologia do Triunfo",
+  "autor": "Denis Waitley",
+  "legenda": "Você está programando o sucesso ou o fracasso?\n\n📖 A Psicologia do Triunfo — Denis Waitley | Citadel\n🔗 Link na bio\n\n#APsicologiaDoTriunfo #DenisWaitley #Mentalidade #Sucesso #AltaPerformance #Autoajuda #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/a-psicologia-do-triunfo.mp4"
+ },
+ {
+  "id": "reel-050",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-23T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "as-pessoas-mudam",
+  "isbn": "9786550478919",
+  "titulo": "As Pessoas Mudam",
+  "autor": "Dra. Vivian Ritter",
+  "legenda": "Será que as pessoas podem mesmo mudar só porque decidiram?\n\n📖 As Pessoas Mudam — Dra. Vivian Ritter | Citadel\n🔗 Link na bio\n\n#AsPessoasMudam #VivianRitter #Filosofia #Autoconhecimento #Comportamento #Reflexao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/as-pessoas-mudam.mp4"
+ },
+ {
+  "id": "reel-051",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-24T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "atitude-mental-positiva",
+  "isbn": "9788568014059",
+  "titulo": "Atitude mental positiva",
+  "autor": "Napoleon Hill e W. Clement Stone",
+  "legenda": "Sua mente tem dois lados. O que você usa decide sua vida.\n\n📖 Atitude mental positiva — Napoleon Hill e W. Clement Stone | Citadel\n🔗 Link na bio\n\n#AtitudeMentalPositiva #NapoleonHill #Mentalidade #Sucesso #Autoajuda #Classico #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/atitude-mental-positiva.mp4"
+ },
+ {
+  "id": "reel-052",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-24T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "a-tecnologia-e-voce",
+  "isbn": "9786550478698",
+  "titulo": "A Tecnologia e Você: Quem Controla Quem?",
+  "autor": "Marcus Fontoura",
+  "legenda": "Todo mundo usa tecnologia. Poucos entendem como ela funciona. Isso muda tudo.\n\n📖 A Tecnologia e Você: Quem Controla Quem? — Marcus Fontoura | Citadel\n🔗 Link na bio\n\n#ATecnologiaEVoce #MarcusFontoura #Tecnologia #InteligenciaArtificial #Algoritmos #Inovacao #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/a-tecnologia-e-voce.mp4"
+ },
+ {
+  "id": "reel-053",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-25T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "cabeca-de-campeao",
+  "isbn": "9786550474539",
+  "titulo": "Cabeça de Campeão",
+  "autor": "François Ducasse",
+  "legenda": "O que acontece na cabeça de um campeão? E como levar isso para a sua vida?\n\n📖 Cabeça de Campeão — François Ducasse | Citadel\n🔗 Link na bio\n\n#CabecaDeCampeao #AltaPerformance #Mentalidade #Esporte #Motivacao #Sucesso #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #empreendedorismo #reels",
+  "video": "vid/cabeca-de-campeao.mp4"
+ },
+ {
+  "id": "reel-054",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-25T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "como-se-tornar-sobrenatural",
+  "isbn": "9786550470517",
+  "titulo": "Como se tornar sobrenatural",
+  "autor": "Joe Dispenza",
+  "legenda": "E se o extraordinário estivesse ao alcance de pessoas comuns?\n\n📖 Como se tornar sobrenatural — Joe Dispenza | Citadel\n🔗 Link na bio\n\n#ComoSeTornarSobrenatural #JoeDispenza #Meditacao #Consciencia #Espiritualidade #Mente #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/como-se-tornar-sobrenatural.mp4"
+ },
+ {
+  "id": "reel-055",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-26T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "contos-de-terror-medico",
+  "isbn": "9786550478575",
+  "titulo": "Contos de Terror Médico",
+  "autor": "Rogério Gomes",
+  "legenda": "O mal veste jaleco.\n\n📖 Contos de Terror Médico — Rogério Gomes | Citadel\n🔗 Link na bio\n\n#ContosDeTerrorMedico #RogerioGomes #Terror #Suspense #LiteraturaNacional #Contos #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/contos-de-terror-medico.mp4"
+ },
+ {
+  "id": "reel-056",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-26T21:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "em-mim-basta",
+  "isbn": "9786550471415",
+  "titulo": "Em mim basta!",
+  "autor": "William Sanches",
+  "legenda": "Você não é todo mundo. Pare de ser.\n\n📖 Em mim basta! — William Sanches | Citadel\n🔗 Link na bio\n\n#EmMimBasta #WilliamSanches #CrencasLimitantes #Autoconhecimento #Prosperidade #Desenvolvimento #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #reels",
+  "video": "vid/em-mim-basta.mp4"
+ },
+ {
+  "id": "reel-057",
+  "tipo": "reel",
+  "versao": "original",
+  "agendado_para": "2026-11-27T12:41:00-03:00",
+  "status": "bloqueado",
+  "slug": "eles-nao-estao-mortos",
+  "isbn": "9786550478896",
+  "titulo": "Eles não Estão Mortos",
+  "autor": "Paulo Lima (Sr. Cimit)",
+  "legenda": "O que acontece num cemitério depois que os vivos vão embora?\n\n📖 Eles não Estão Mortos — Paulo Lima (Sr. Cimit) | Citadel\n🔗 Link na bio\n\n#ElesNaoEstaoMortos #SrCimit #Barbacena #Causos #Sobrenatural #Humor #Citadel #CitadelEditora #bookstagrambrasil #livros #leitura #dicadeleitura #instalivros #amoler #literatura #reels",
+  "video": "vid/eles-nao-estao-mortos.mp4"
  }
 ]
