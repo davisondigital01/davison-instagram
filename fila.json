@@ -55,7 +55,7 @@
   "id": "orig-003",
   "versao": "original",
   "agendado_para": "2026-10-30T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "as-18-leis-do-dinheiro",
   "isbn": "9786550475369",
   "titulo": "As 18 leis do dinheiro",
@@ -73,7 +73,9 @@
    "img/as-18-leis-do-dinheiro-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-10-30T18:42:19-03:00"
+  "iniciado_em": "2026-10-30T18:42:19-03:00",
+  "publicado_em": "2026-10-30T18:43:27-03:00",
+  "media_id": "18099459566400758"
  },
  {
   "id": "orig-004",
