@@ -1357,13 +1357,15 @@
   "versao": "original",
   "depende": "orig-003",
   "agendado_para": "2026-10-30T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "as-18-leis-do-dinheiro",
   "isbn": "9786550475369",
   "titulo": "As 18 leis do dinheiro",
   "autor": "Charles Mendlowicz",
   "video": "vid/as-18-leis-do-dinheiro.mp4",
-  "iniciado_em": "2026-10-30T18:43:34-03:00"
+  "iniciado_em": "2026-10-30T18:43:34-03:00",
+  "publicado_em": "2026-10-30T18:44:19-03:00",
+  "media_id": "18109286471222791"
  },
  {
   "id": "story-004",
