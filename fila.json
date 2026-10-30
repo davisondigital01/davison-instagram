@@ -29,7 +29,7 @@
   "id": "orig-002",
   "versao": "original",
   "agendado_para": "2026-10-30T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "autobiografia-de-um-iogue",
   "isbn": "9786550478759",
   "titulo": "Autobiografia de um Iogue",
@@ -47,7 +47,9 @@
    "img/autobiografia-de-um-iogue-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-10-30T12:42:11-03:00"
+  "iniciado_em": "2026-10-30T12:42:11-03:00",
+  "publicado_em": "2026-10-30T12:43:07-03:00",
+  "media_id": "17993665272111877"
  },
  {
   "id": "orig-003",
