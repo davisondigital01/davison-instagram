@@ -1338,12 +1338,13 @@
   "versao": "original",
   "depende": "orig-002",
   "agendado_para": "2026-10-30T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "autobiografia-de-um-iogue",
   "isbn": "9786550478759",
   "titulo": "Autobiografia de um Iogue",
   "autor": "Paramahansa Yogananda",
-  "video": "vid/autobiografia-de-um-iogue.mp4"
+  "video": "vid/autobiografia-de-um-iogue.mp4",
+  "iniciado_em": "2026-10-30T12:43:13-03:00"
  },
  {
   "id": "story-003",
