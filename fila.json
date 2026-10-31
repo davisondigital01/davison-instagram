@@ -1414,13 +1414,15 @@
   "versao": "original",
   "depende": "orig-006",
   "agendado_para": "2026-10-31T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "arca-thiago-nigro",
   "isbn": "9786550477752",
   "titulo": "ARCA",
   "autor": "Thiago Nigro",
   "video": "vid/arca-thiago-nigro.mp4",
-  "iniciado_em": "2026-10-31T12:43:21-03:00"
+  "iniciado_em": "2026-10-31T12:43:21-03:00",
+  "publicado_em": "2026-10-31T12:44:16-03:00",
+  "media_id": "18139370521725874"
  },
  {
   "id": "story-007",
