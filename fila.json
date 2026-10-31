@@ -81,7 +81,7 @@
   "id": "orig-004",
   "versao": "original",
   "agendado_para": "2026-10-30T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "rosie-e-finn",
   "isbn": "9786550478490",
   "titulo": "Rosie & Finn",
@@ -98,7 +98,8 @@
    "img/rosie-e-finn-06.jpg",
    "img/rosie-e-finn-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-10-30T21:42:35-03:00"
  },
  {
   "id": "orig-005",
