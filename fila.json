@@ -1376,12 +1376,13 @@
   "versao": "original",
   "depende": "orig-004",
   "agendado_para": "2026-10-30T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "rosie-e-finn",
   "isbn": "9786550478490",
   "titulo": "Rosie & Finn",
   "autor": "Fundação Napoleon Hill",
-  "video": "vid/rosie-e-finn.mp4"
+  "video": "vid/rosie-e-finn.mp4",
+  "iniciado_em": "2026-10-30T21:43:32-03:00"
  },
  {
   "id": "story-005",
