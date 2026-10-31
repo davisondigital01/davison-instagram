@@ -107,7 +107,7 @@
   "id": "orig-005",
   "versao": "original",
   "agendado_para": "2026-10-31T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "o-fim-do-sofrimento-emocional",
   "isbn": "9786550478278",
   "titulo": "O fim do sofrimento emocional",
@@ -125,7 +125,9 @@
    "img/o-fim-do-sofrimento-emocional-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-10-31T07:42:30-03:00"
+  "iniciado_em": "2026-10-31T07:42:30-03:00",
+  "publicado_em": "2026-10-31T07:44:13-03:00",
+  "media_id": "18085276826336278"
  },
  {
   "id": "orig-006",
