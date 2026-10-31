@@ -1395,12 +1395,13 @@
   "versao": "original",
   "depende": "orig-005",
   "agendado_para": "2026-10-31T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-fim-do-sofrimento-emocional",
   "isbn": "9786550478278",
   "titulo": "O fim do sofrimento emocional",
   "autor": "William Sanches",
-  "video": "vid/o-fim-do-sofrimento-emocional.mp4"
+  "video": "vid/o-fim-do-sofrimento-emocional.mp4",
+  "iniciado_em": "2026-10-31T07:44:17-03:00"
  },
  {
   "id": "story-006",
