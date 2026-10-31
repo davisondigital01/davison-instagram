@@ -159,7 +159,7 @@
   "id": "orig-007",
   "versao": "original",
   "agendado_para": "2026-10-31T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-amor-clovis-de-barros",
   "isbn": "9786550478131",
   "titulo": "O amor",
@@ -176,7 +176,8 @@
    "img/o-amor-clovis-de-barros-06.jpg",
    "img/o-amor-clovis-de-barros-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-10-31T18:42:13-03:00"
  },
  {
   "id": "orig-008",
