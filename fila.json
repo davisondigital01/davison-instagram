@@ -1433,13 +1433,15 @@
   "versao": "original",
   "depende": "orig-007",
   "agendado_para": "2026-10-31T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "o-amor-clovis-de-barros",
   "isbn": "9786550478131",
   "titulo": "O amor",
   "autor": "Clóvis de Barros Filho",
   "video": "vid/o-amor-clovis-de-barros.mp4",
-  "iniciado_em": "2026-10-31T18:43:15-03:00"
+  "iniciado_em": "2026-10-31T18:43:15-03:00",
+  "publicado_em": "2026-10-31T18:44:03-03:00",
+  "media_id": "17970324350964503"
  },
  {
   "id": "story-008",
