@@ -1452,12 +1452,13 @@
   "versao": "original",
   "depende": "orig-008",
   "agendado_para": "2026-10-31T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-simples-vence",
   "isbn": "9786550478216",
   "titulo": "O Simples Vence",
   "autor": "Uri Levine",
-  "video": "vid/o-simples-vence.mp4"
+  "video": "vid/o-simples-vence.mp4",
+  "iniciado_em": "2026-10-31T21:44:11-03:00"
  },
  {
   "id": "story-009",
