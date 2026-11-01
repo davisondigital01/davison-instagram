@@ -1509,12 +1509,13 @@
   "versao": "original",
   "depende": "orig-011",
   "agendado_para": "2026-11-01T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-arte-da-felicidade-romero-britto",
   "isbn": "9786550478414",
   "titulo": "A Arte da Felicidade",
   "autor": "Romero Britto",
-  "video": "vid/a-arte-da-felicidade-romero-britto.mp4"
+  "video": "vid/a-arte-da-felicidade-romero-britto.mp4",
+  "iniciado_em": "2026-11-01T18:43:39-03:00"
  },
  {
   "id": "story-012",
