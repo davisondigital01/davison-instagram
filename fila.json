@@ -1471,13 +1471,15 @@
   "versao": "original",
   "depende": "orig-009",
   "agendado_para": "2026-11-01T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "1826-rodrigo-trespach",
   "isbn": "9786550478377",
   "titulo": "1826",
   "autor": "Rodrigo Trespach",
   "video": "vid/1826-rodrigo-trespach.mp4",
-  "iniciado_em": "2026-11-01T07:42:58-03:00"
+  "iniciado_em": "2026-11-01T07:42:58-03:00",
+  "publicado_em": "2026-11-01T07:43:49-03:00",
+  "media_id": "18105069146342712"
  },
  {
   "id": "story-010",
