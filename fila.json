@@ -263,7 +263,7 @@
   "id": "orig-011",
   "versao": "original",
   "agendado_para": "2026-11-01T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-arte-da-felicidade-romero-britto",
   "isbn": "9786550478414",
   "titulo": "A Arte da Felicidade",
@@ -280,7 +280,8 @@
    "img/a-arte-da-felicidade-romero-britto-06.jpg",
    "img/a-arte-da-felicidade-romero-britto-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-01T18:42:35-03:00"
  },
  {
   "id": "orig-012",
