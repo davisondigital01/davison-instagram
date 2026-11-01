@@ -185,7 +185,7 @@
   "id": "orig-008",
   "versao": "original",
   "agendado_para": "2026-10-31T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "o-simples-vence",
   "isbn": "9786550478216",
   "titulo": "O Simples Vence",
@@ -203,7 +203,9 @@
    "img/o-simples-vence-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-10-31T21:42:30-03:00"
+  "iniciado_em": "2026-10-31T21:42:30-03:00",
+  "publicado_em": "2026-10-31T21:44:07-03:00",
+  "media_id": "18101835836074292"
  },
  {
   "id": "orig-009",
