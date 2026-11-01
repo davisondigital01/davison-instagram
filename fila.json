@@ -237,7 +237,7 @@
   "id": "orig-010",
   "versao": "original",
   "agendado_para": "2026-11-01T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "inteligencia-pragmatica",
   "isbn": "9786550477639",
   "titulo": "Inteligência Pragmática",
@@ -254,7 +254,8 @@
    "img/inteligencia-pragmatica-06.jpg",
    "img/inteligencia-pragmatica-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-01T12:41:57-03:00"
  },
  {
   "id": "orig-011",
