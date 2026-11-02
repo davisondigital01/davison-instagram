@@ -341,7 +341,7 @@
   "id": "orig-014",
   "versao": "original",
   "agendado_para": "2026-11-02T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-meta-goldratt",
   "isbn": "9786550474614",
   "titulo": "A Meta",
@@ -359,7 +359,9 @@
    "img/a-meta-goldratt-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-02T13:45:28-03:00"
+  "iniciado_em": "2026-11-02T13:45:28-03:00",
+  "publicado_em": "2026-11-02T13:46:32-03:00",
+  "media_id": "17980711853922202"
  },
  {
   "id": "orig-015",
