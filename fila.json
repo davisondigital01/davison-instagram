@@ -367,7 +367,7 @@
   "id": "orig-015",
   "versao": "original",
   "agendado_para": "2026-11-02T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-revolucao-dos-bichos",
   "isbn": "9786587885728",
   "titulo": "A revolução dos bichos",
@@ -385,7 +385,9 @@
    "img/a-revolucao-dos-bichos-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-02T18:42:55-03:00"
+  "iniciado_em": "2026-11-02T18:42:55-03:00",
+  "publicado_em": "2026-11-02T18:44:35-03:00",
+  "media_id": "17915706150494745"
  },
  {
   "id": "orig-016",
