@@ -1528,12 +1528,13 @@
   "versao": "original",
   "depende": "orig-012",
   "agendado_para": "2026-11-01T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-arte-da-negociacao",
   "isbn": "9788568014479",
   "titulo": "A arte da negociação",
   "autor": "Donald Trump",
-  "video": "vid/a-arte-da-negociacao.mp4"
+  "video": "vid/a-arte-da-negociacao.mp4",
+  "iniciado_em": "2026-11-01T21:43:41-03:00"
  },
  {
   "id": "story-013",
