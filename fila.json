@@ -1566,13 +1566,15 @@
   "versao": "original",
   "depende": "orig-014",
   "agendado_para": "2026-11-02T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-meta-goldratt",
   "isbn": "9786550474614",
   "titulo": "A Meta",
   "autor": "Eliyahu M. Goldratt",
   "video": "vid/a-meta-goldratt.mp4",
-  "iniciado_em": "2026-11-02T13:46:38-03:00"
+  "iniciado_em": "2026-11-02T13:46:38-03:00",
+  "publicado_em": "2026-11-02T13:47:34-03:00",
+  "media_id": "18034894925906672"
  },
  {
   "id": "story-015",
