@@ -1585,12 +1585,13 @@
   "versao": "original",
   "depende": "orig-015",
   "agendado_para": "2026-11-02T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-revolucao-dos-bichos",
   "isbn": "9786587885728",
   "titulo": "A revolução dos bichos",
   "autor": "George Orwell",
-  "video": "vid/a-revolucao-dos-bichos.mp4"
+  "video": "vid/a-revolucao-dos-bichos.mp4",
+  "iniciado_em": "2026-11-02T18:44:42-03:00"
  },
  {
   "id": "story-016",
