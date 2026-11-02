@@ -315,7 +315,7 @@
   "id": "orig-013",
   "versao": "original",
   "agendado_para": "2026-11-02T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-metamorfose-kafka",
   "isbn": "9786550478636",
   "titulo": "A Metamorfose",
@@ -332,7 +332,8 @@
    "img/a-metamorfose-kafka-06.jpg",
    "img/a-metamorfose-kafka-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-02T07:42:25-03:00"
  },
  {
   "id": "orig-014",
