@@ -1547,12 +1547,13 @@
   "versao": "original",
   "depende": "orig-013",
   "agendado_para": "2026-11-02T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-metamorfose-kafka",
   "isbn": "9786550478636",
   "titulo": "A Metamorfose",
   "autor": "Franz Kafka",
-  "video": "vid/a-metamorfose-kafka.mp4"
+  "video": "vid/a-metamorfose-kafka.mp4",
+  "iniciado_em": "2026-11-02T07:44:17-03:00"
  },
  {
   "id": "story-014",
