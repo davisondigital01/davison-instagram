@@ -289,7 +289,7 @@
   "id": "orig-012",
   "versao": "original",
   "agendado_para": "2026-11-01T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-arte-da-negociacao",
   "isbn": "9788568014479",
   "titulo": "A arte da negociação",
@@ -307,7 +307,9 @@
    "img/a-arte-da-negociacao-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-01T21:41:59-03:00"
+  "iniciado_em": "2026-11-01T21:41:59-03:00",
+  "publicado_em": "2026-11-01T21:43:35-03:00",
+  "media_id": "18116955638278992"
  },
  {
   "id": "orig-013",
