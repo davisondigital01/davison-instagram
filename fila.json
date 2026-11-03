@@ -1604,12 +1604,13 @@
   "versao": "original",
   "depende": "orig-016",
   "agendado_para": "2026-11-02T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "apaixone-se-pelo-problema",
   "isbn": "9786550472429",
   "titulo": "Apaixone-se pelo problema, não pela solução",
   "autor": "Uri Levine",
-  "video": "vid/apaixone-se-pelo-problema.mp4"
+  "video": "vid/apaixone-se-pelo-problema.mp4",
+  "iniciado_em": "2026-11-02T21:44:30-03:00"
  },
  {
   "id": "story-017",
