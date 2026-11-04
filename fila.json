@@ -471,7 +471,7 @@
   "id": "orig-019",
   "versao": "original",
   "agendado_para": "2026-11-03T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "box-estrategias-para-conquistar-a-mente",
   "isbn": "9786550471675",
   "titulo": "Box Estratégias para conquistar a mente",
@@ -488,7 +488,8 @@
    "img/box-estrategias-para-conquistar-a-mente-06.jpg",
    "img/box-estrategias-para-conquistar-a-mente-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-04T09:44:10-03:00"
  },
  {
   "id": "orig-020",
