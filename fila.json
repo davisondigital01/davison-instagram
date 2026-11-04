@@ -445,7 +445,7 @@
   "id": "orig-018",
   "versao": "original",
   "agendado_para": "2026-11-03T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-prova-de-balas-50-cent",
   "isbn": "9786550478391",
   "titulo": "À Prova de Balas",
@@ -463,7 +463,9 @@
    "img/a-prova-de-balas-50-cent-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-04T08:43:32-03:00"
+  "iniciado_em": "2026-11-04T08:43:32-03:00",
+  "publicado_em": "2026-11-04T08:45:32-03:00",
+  "media_id": "18170063668481878"
  },
  {
   "id": "orig-019",
