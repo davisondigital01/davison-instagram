@@ -1662,13 +1662,15 @@
   "versao": "original",
   "depende": "orig-019",
   "agendado_para": "2026-11-03T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "box-estrategias-para-conquistar-a-mente",
   "isbn": "9786550471675",
   "titulo": "Box Estratégias para conquistar a mente",
   "autor": "Sun Tzu, Maquiavel e Musashi",
   "video": "vid/box-estrategias-para-conquistar-a-mente.mp4",
-  "iniciado_em": "2026-11-04T10:42:52-03:00"
+  "iniciado_em": "2026-11-04T10:42:52-03:00",
+  "publicado_em": "2026-11-04T10:43:46-03:00",
+  "media_id": "18110249648215612"
  },
  {
   "id": "story-020",
