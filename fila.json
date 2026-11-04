@@ -549,7 +549,7 @@
   "id": "orig-022",
   "versao": "original",
   "agendado_para": "2026-11-04T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "atitude-mental-positiva",
   "isbn": "9788568014059",
   "titulo": "Atitude mental positiva",
@@ -567,7 +567,9 @@
    "img/atitude-mental-positiva-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-04T12:43:18-03:00"
+  "iniciado_em": "2026-11-04T12:43:18-03:00",
+  "publicado_em": "2026-11-04T12:44:57-03:00",
+  "media_id": "18004990883839955"
  },
  {
   "id": "orig-023",
