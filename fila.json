@@ -1643,12 +1643,13 @@
   "versao": "original",
   "depende": "orig-018",
   "agendado_para": "2026-11-03T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-prova-de-balas-50-cent",
   "isbn": "9786550478391",
   "titulo": "À Prova de Balas",
   "autor": "50 Cent",
-  "video": "vid/a-prova-de-balas-50-cent.mp4"
+  "video": "vid/a-prova-de-balas-50-cent.mp4",
+  "iniciado_em": "2026-11-04T09:42:26-03:00"
  },
  {
   "id": "story-019",
