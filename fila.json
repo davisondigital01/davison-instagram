@@ -1681,13 +1681,15 @@
   "versao": "original",
   "depende": "orig-020",
   "agendado_para": "2026-11-03T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-psicologia-do-triunfo",
   "isbn": "9786550478452",
   "titulo": "A Psicologia do Triunfo",
   "autor": "Denis Waitley",
   "video": "vid/a-psicologia-do-triunfo.mp4",
-  "iniciado_em": "2026-11-04T11:42:55-03:00"
+  "iniciado_em": "2026-11-04T11:42:55-03:00",
+  "publicado_em": "2026-11-04T11:44:01-03:00",
+  "media_id": "18096993524663371"
  },
  {
   "id": "story-021",
