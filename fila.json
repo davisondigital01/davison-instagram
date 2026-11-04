@@ -1719,13 +1719,15 @@
   "versao": "original",
   "depende": "orig-022",
   "agendado_para": "2026-11-04T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "atitude-mental-positiva",
   "isbn": "9788568014059",
   "titulo": "Atitude mental positiva",
   "autor": "Napoleon Hill e W. Clement Stone",
   "video": "vid/atitude-mental-positiva.mp4",
-  "iniciado_em": "2026-11-04T13:43:02-03:00"
+  "iniciado_em": "2026-11-04T13:43:02-03:00",
+  "publicado_em": "2026-11-04T13:43:54-03:00",
+  "media_id": "17986166943088015"
  },
  {
   "id": "story-023",
