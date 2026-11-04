@@ -419,7 +419,7 @@
   "id": "orig-017",
   "versao": "original",
   "agendado_para": "2026-11-03T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "as-parabolas-de-jesus",
   "isbn": "9786550479046",
   "titulo": "As Parábolas de Jesus",
@@ -437,7 +437,9 @@
    "img/as-parabolas-de-jesus-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-04T07:41:53-03:00"
+  "iniciado_em": "2026-11-04T07:41:53-03:00",
+  "publicado_em": "2026-11-04T07:44:08-03:00",
+  "media_id": "18120481537956784"
  },
  {
   "id": "orig-018",
