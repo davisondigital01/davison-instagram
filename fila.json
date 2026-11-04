@@ -575,7 +575,7 @@
   "id": "orig-023",
   "versao": "original",
   "agendado_para": "2026-11-04T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-tecnologia-e-voce",
   "isbn": "9786550478698",
   "titulo": "A Tecnologia e Você: Quem Controla Quem?",
@@ -593,7 +593,9 @@
    "img/a-tecnologia-e-voce-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-04T18:42:01-03:00"
+  "iniciado_em": "2026-11-04T18:42:01-03:00",
+  "publicado_em": "2026-11-04T18:43:02-03:00",
+  "media_id": "18132794980877514"
  },
  {
   "id": "orig-024",
