@@ -523,7 +523,7 @@
   "id": "orig-021",
   "versao": "original",
   "agendado_para": "2026-11-04T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "as-pessoas-mudam",
   "isbn": "9786550478919",
   "titulo": "As Pessoas Mudam",
@@ -540,7 +540,8 @@
    "img/as-pessoas-mudam-06.jpg",
    "img/as-pessoas-mudam-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-04T11:44:07-03:00"
  },
  {
   "id": "orig-022",
