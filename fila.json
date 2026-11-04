@@ -1738,13 +1738,15 @@
   "versao": "original",
   "depende": "orig-023",
   "agendado_para": "2026-11-04T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "a-tecnologia-e-voce",
   "isbn": "9786550478698",
   "titulo": "A Tecnologia e Você: Quem Controla Quem?",
   "autor": "Marcus Fontoura",
   "video": "vid/a-tecnologia-e-voce.mp4",
-  "iniciado_em": "2026-11-04T18:43:10-03:00"
+  "iniciado_em": "2026-11-04T18:43:10-03:00",
+  "publicado_em": "2026-11-04T18:44:00-03:00",
+  "media_id": "18020127752740554"
  },
  {
   "id": "story-024",
