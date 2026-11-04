@@ -1623,14 +1623,16 @@
   "versao": "original",
   "depende": "orig-017",
   "agendado_para": "2026-11-03T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "as-parabolas-de-jesus",
   "isbn": "9786550479046",
   "titulo": "As Parábolas de Jesus",
   "autor": "Clóvis de Barros Filho",
   "video": "vid/as-parabolas-de-jesus.mp4",
   "tentativas": 1,
-  "iniciado_em": "2026-11-04T08:42:26-03:00"
+  "iniciado_em": "2026-11-04T08:42:26-03:00",
+  "publicado_em": "2026-11-04T08:43:25-03:00",
+  "media_id": "18032497604885567"
  },
  {
   "id": "story-018",
