@@ -83,3 +83,4 @@
 {"id": "orig-017", "evento": "iniciado", "quando": "2026-11-04T07:41:53-03:00"}
 {"id": "orig-017", "evento": "publicado", "media_id": "18120481537956784", "titulo": "As Parábolas de Jesus", "quando": "2026-11-04T07:44:08-03:00"}
 {"id": "story-017", "evento": "iniciado", "quando": "2026-11-04T07:44:29-03:00"}
+{"id": "story-017", "evento": "falha", "erro": "Instagram could not process the story video (container status: ERROR)", "tentativas": 1, "quando": "2026-11-04T07:45:16-03:00"}
