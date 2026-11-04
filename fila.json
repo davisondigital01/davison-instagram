@@ -497,7 +497,7 @@
   "id": "orig-020",
   "versao": "original",
   "agendado_para": "2026-11-03T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "a-psicologia-do-triunfo",
   "isbn": "9786550478452",
   "titulo": "A Psicologia do Triunfo",
@@ -514,7 +514,8 @@
    "img/a-psicologia-do-triunfo-06.jpg",
    "img/a-psicologia-do-triunfo-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-04T10:43:53-03:00"
  },
  {
   "id": "orig-021",
