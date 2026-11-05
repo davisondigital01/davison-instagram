@@ -1757,12 +1757,13 @@
   "versao": "original",
   "depende": "orig-024",
   "agendado_para": "2026-11-04T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "cabeca-de-campeao",
   "isbn": "9786550474539",
   "titulo": "Cabeça de Campeão",
   "autor": "François Ducasse",
-  "video": "vid/cabeca-de-campeao.mp4"
+  "video": "vid/cabeca-de-campeao.mp4",
+  "iniciado_em": "2026-11-04T21:43:35-03:00"
  },
  {
   "id": "story-025",
