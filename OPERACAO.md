@@ -2,7 +2,7 @@
 
 Repositório público com tudo o que a publicação automática precisa:
 - `img/` — os 7 slides de cada carrossel em JPEG (`<livro>-01.jpg` … `-07.jpg`), cópias dos originais;
-- `vid/` — o vídeo animado de cada livro (`<livro>.mp4`, 1080x1920, 14 s), usado em Stories e Reels;
+- `vid/` — o vídeo animado de cada livro (`<livro>.mp4`, 1080x1920, cerca de 20 s, no estilo visual da capa), usado em Stories e Reels;
 - `fila.json` — cada item tem `tipo` (`carrossel`, `story`, `reel`), horário previsto e **status**;
 - `calendario.csv` — o calendário dos carrosséis;
 - `historico.jsonl` — registro de cada tentativa, publicação e falha;
