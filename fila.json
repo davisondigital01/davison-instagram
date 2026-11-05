@@ -627,7 +627,7 @@
   "id": "orig-025",
   "versao": "original",
   "agendado_para": "2026-11-05T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "como-se-tornar-sobrenatural",
   "isbn": "9786550470517",
   "titulo": "Como se tornar sobrenatural",
@@ -644,7 +644,8 @@
    "img/como-se-tornar-sobrenatural-06.jpg",
    "img/como-se-tornar-sobrenatural-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-05T07:41:56-03:00"
  },
  {
   "id": "orig-026",
