@@ -1814,13 +1814,15 @@
   "versao": "original",
   "depende": "orig-027",
   "agendado_para": "2026-11-05T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "em-mim-basta",
   "isbn": "9786550471415",
   "titulo": "Em mim basta!",
   "autor": "William Sanches",
   "video": "vid/em-mim-basta.mp4",
-  "iniciado_em": "2026-11-05T18:43:22-03:00"
+  "iniciado_em": "2026-11-05T18:43:22-03:00",
+  "publicado_em": "2026-11-05T18:44:15-03:00",
+  "media_id": "18414969316095855"
  },
  {
   "id": "story-028",
