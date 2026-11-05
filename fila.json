@@ -653,7 +653,7 @@
   "id": "orig-026",
   "versao": "original",
   "agendado_para": "2026-11-05T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "contos-de-terror-medico",
   "isbn": "9786550478575",
   "titulo": "Contos de Terror Médico",
@@ -671,7 +671,9 @@
    "img/contos-de-terror-medico-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-05T12:42:53-03:00"
+  "iniciado_em": "2026-11-05T12:42:53-03:00",
+  "publicado_em": "2026-11-05T12:44:39-03:00",
+  "media_id": "17961051552016461"
  },
  {
   "id": "orig-027",
