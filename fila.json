@@ -679,7 +679,7 @@
   "id": "orig-027",
   "versao": "original",
   "agendado_para": "2026-11-05T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "em-mim-basta",
   "isbn": "9786550471415",
   "titulo": "Em mim basta!",
@@ -696,7 +696,8 @@
    "img/em-mim-basta-06.jpg",
    "img/em-mim-basta-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-05T18:42:13-03:00"
  },
  {
   "id": "orig-028",
