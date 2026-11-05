@@ -1795,13 +1795,15 @@
   "versao": "original",
   "depende": "orig-026",
   "agendado_para": "2026-11-05T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "contos-de-terror-medico",
   "isbn": "9786550478575",
   "titulo": "Contos de Terror Médico",
   "autor": "Rogério Gomes",
   "video": "vid/contos-de-terror-medico.mp4",
-  "iniciado_em": "2026-11-05T12:44:45-03:00"
+  "iniciado_em": "2026-11-05T12:44:45-03:00",
+  "publicado_em": "2026-11-05T12:45:39-03:00",
+  "media_id": "18059257232653421"
  },
  {
   "id": "story-027",
