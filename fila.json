@@ -601,7 +601,7 @@
   "id": "orig-024",
   "versao": "original",
   "agendado_para": "2026-11-04T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "cabeca-de-campeao",
   "isbn": "9786550474539",
   "titulo": "Cabeça de Campeão",
@@ -618,7 +618,8 @@
    "img/cabeca-de-campeao-06.jpg",
    "img/cabeca-de-campeao-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-04T21:41:53-03:00"
  },
  {
   "id": "orig-025",
