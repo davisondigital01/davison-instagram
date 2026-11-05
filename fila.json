@@ -1776,12 +1776,13 @@
   "versao": "original",
   "depende": "orig-025",
   "agendado_para": "2026-11-05T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "como-se-tornar-sobrenatural",
   "isbn": "9786550470517",
   "titulo": "Como se tornar sobrenatural",
   "autor": "Joe Dispenza",
-  "video": "vid/como-se-tornar-sobrenatural.mp4"
+  "video": "vid/como-se-tornar-sobrenatural.mp4",
+  "iniciado_em": "2026-11-05T07:43:58-03:00"
  },
  {
   "id": "story-026",
