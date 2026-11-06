@@ -731,7 +731,7 @@
   "id": "orig-029",
   "versao": "original",
   "agendado_para": "2026-11-06T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "em-nome-do-povo",
   "isbn": "9786550474799",
   "titulo": "Em nome do povo",
@@ -749,7 +749,9 @@
    "img/em-nome-do-povo-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-06T07:42:55-03:00"
+  "iniciado_em": "2026-11-06T07:42:55-03:00",
+  "publicado_em": "2026-11-06T07:44:49-03:00",
+  "media_id": "18196168711394838"
  },
  {
   "id": "orig-030",
