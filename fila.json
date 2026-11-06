@@ -1852,13 +1852,15 @@
   "versao": "original",
   "depende": "orig-029",
   "agendado_para": "2026-11-06T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "em-nome-do-povo",
   "isbn": "9786550474799",
   "titulo": "Em nome do povo",
   "autor": "Bruno Perini",
   "video": "vid/em-nome-do-povo.mp4",
-  "iniciado_em": "2026-11-06T07:44:55-03:00"
+  "iniciado_em": "2026-11-06T07:44:55-03:00",
+  "publicado_em": "2026-11-06T07:45:59-03:00",
+  "media_id": "18003555003009956"
  },
  {
   "id": "story-030",
