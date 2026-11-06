@@ -783,7 +783,7 @@
   "id": "orig-031",
   "versao": "original",
   "agendado_para": "2026-11-06T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "1984-e-a-revolucao-dos-bichos",
   "isbn": "9786587885346",
   "titulo": "1984 + A revolução dos bichos",
@@ -801,7 +801,9 @@
    "img/1984-e-a-revolucao-dos-bichos-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-06T18:42:46-03:00"
+  "iniciado_em": "2026-11-06T18:42:46-03:00",
+  "publicado_em": "2026-11-06T18:43:49-03:00",
+  "media_id": "18358288408302179"
  },
  {
   "id": "orig-032",
