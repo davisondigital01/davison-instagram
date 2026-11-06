@@ -705,7 +705,7 @@
   "id": "orig-028",
   "versao": "original",
   "agendado_para": "2026-11-05T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "eles-nao-estao-mortos",
   "isbn": "9786550478896",
   "titulo": "Eles não Estão Mortos",
@@ -722,7 +722,8 @@
    "img/eles-nao-estao-mortos-06.jpg",
    "img/eles-nao-estao-mortos-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-05T21:42:45-03:00"
  },
  {
   "id": "orig-029",
