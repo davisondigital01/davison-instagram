@@ -1871,13 +1871,15 @@
   "versao": "original",
   "depende": "orig-030",
   "agendado_para": "2026-11-06T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "fe-e-esperanca-2027",
   "isbn": "9786550478612",
   "titulo": "Fé e Esperança para Cada Dia – Vol. IV (2027)",
   "autor": "Flávio Valvassoura",
   "video": "vid/fe-e-esperanca-2027.mp4",
-  "iniciado_em": "2026-11-06T12:45:09-03:00"
+  "iniciado_em": "2026-11-06T12:45:09-03:00",
+  "publicado_em": "2026-11-06T12:46:33-03:00",
+  "media_id": "17898318462417573"
  },
  {
   "id": "story-031",
