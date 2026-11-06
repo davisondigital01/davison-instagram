@@ -757,7 +757,7 @@
   "id": "orig-030",
   "versao": "original",
   "agendado_para": "2026-11-06T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "fe-e-esperanca-2027",
   "isbn": "9786550478612",
   "titulo": "Fé e Esperança para Cada Dia – Vol. IV (2027)",
@@ -775,7 +775,9 @@
    "img/fe-e-esperanca-2027-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-06T12:43:16-03:00"
+  "iniciado_em": "2026-11-06T12:43:16-03:00",
+  "publicado_em": "2026-11-06T12:45:02-03:00",
+  "media_id": "18211747300321416"
  },
  {
   "id": "orig-031",
