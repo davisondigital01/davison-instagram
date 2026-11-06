@@ -1890,12 +1890,13 @@
   "versao": "original",
   "depende": "orig-031",
   "agendado_para": "2026-11-06T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "1984-e-a-revolucao-dos-bichos",
   "isbn": "9786587885346",
   "titulo": "1984 + A revolução dos bichos",
   "autor": "George Orwell",
-  "video": "vid/1984-e-a-revolucao-dos-bichos.mp4"
+  "video": "vid/1984-e-a-revolucao-dos-bichos.mp4",
+  "iniciado_em": "2026-11-06T18:43:55-03:00"
  },
  {
   "id": "story-032",
