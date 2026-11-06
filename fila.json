@@ -1833,13 +1833,15 @@
   "versao": "original",
   "depende": "orig-028",
   "agendado_para": "2026-11-05T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "eles-nao-estao-mortos",
   "isbn": "9786550478896",
   "titulo": "Eles não Estão Mortos",
   "autor": "Paulo Lima (Sr. Cimit)",
   "video": "vid/eles-nao-estao-mortos.mp4",
-  "iniciado_em": "2026-11-05T21:44:36-03:00"
+  "iniciado_em": "2026-11-05T21:44:36-03:00",
+  "publicado_em": "2026-11-05T21:45:31-03:00",
+  "media_id": "18111363875180718"
  },
  {
   "id": "story-029",
