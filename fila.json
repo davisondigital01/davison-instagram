@@ -1929,13 +1929,15 @@
   "versao": "original",
   "depende": "orig-033",
   "agendado_para": "2026-11-07T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "hotel-cativeiro",
   "isbn": "9786550478674",
   "titulo": "Hotel Cativeiro",
   "autor": "Vanessa Giácomo e Gabriela Dioguardi",
   "video": "vid/hotel-cativeiro.mp4",
-  "iniciado_em": "2026-11-07T07:46:24-03:00"
+  "iniciado_em": "2026-11-07T07:46:24-03:00",
+  "publicado_em": "2026-11-07T07:47:14-03:00",
+  "media_id": "18344402095273530"
  },
  {
   "id": "story-034",
