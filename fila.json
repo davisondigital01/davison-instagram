@@ -809,7 +809,7 @@
   "id": "orig-032",
   "versao": "original",
   "agendado_para": "2026-11-06T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "habitos-dos-milionarios",
   "isbn": "9786587885032",
   "titulo": "Hábitos dos milionários",
@@ -826,7 +826,8 @@
    "img/habitos-dos-milionarios-06.jpg",
    "img/habitos-dos-milionarios-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-06T21:42:24-03:00"
  },
  {
   "id": "orig-033",
