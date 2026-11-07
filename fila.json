@@ -1967,12 +1967,13 @@
   "versao": "original",
   "depende": "orig-035",
   "agendado_para": "2026-11-07T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "iliada-e-odisseia-clovis-explica",
   "isbn": "9786550475857",
   "titulo": "Ilíada & Odisseia (Série Clóvis explica)",
   "autor": "Clóvis de Barros Filho",
-  "video": "vid/iliada-e-odisseia-clovis-explica.mp4"
+  "video": "vid/iliada-e-odisseia-clovis-explica.mp4",
+  "iniciado_em": "2026-11-07T18:44:21-03:00"
  },
  {
   "id": "story-036",
