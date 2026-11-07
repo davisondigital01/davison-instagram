@@ -1948,13 +1948,15 @@
   "versao": "original",
   "depende": "orig-034",
   "agendado_para": "2026-11-07T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "legado-rodrigo-silva",
   "isbn": "9786550478438",
   "titulo": "Legado",
   "autor": "Rodrigo Silva",
   "video": "vid/legado-rodrigo-silva.mp4",
-  "iniciado_em": "2026-11-07T12:44:04-03:00"
+  "iniciado_em": "2026-11-07T12:44:04-03:00",
+  "publicado_em": "2026-11-07T12:44:55-03:00",
+  "media_id": "17900785455394689"
  },
  {
   "id": "story-035",
