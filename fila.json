@@ -888,7 +888,7 @@
   "id": "orig-035",
   "versao": "original",
   "agendado_para": "2026-11-07T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "iliada-e-odisseia-clovis-explica",
   "isbn": "9786550475857",
   "titulo": "Ilíada & Odisseia (Série Clóvis explica)",
@@ -906,7 +906,9 @@
    "img/iliada-e-odisseia-clovis-explica-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-07T18:43:14-03:00"
+  "iniciado_em": "2026-11-07T18:43:14-03:00",
+  "publicado_em": "2026-11-07T18:44:14-03:00",
+  "media_id": "18095281853681166"
  },
  {
   "id": "orig-036",
