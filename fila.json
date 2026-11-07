@@ -1909,12 +1909,13 @@
   "versao": "original",
   "depende": "orig-032",
   "agendado_para": "2026-11-06T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "habitos-dos-milionarios",
   "isbn": "9786587885032",
   "titulo": "Hábitos dos milionários",
   "autor": "Napoleon Hill",
-  "video": "vid/habitos-dos-milionarios.mp4"
+  "video": "vid/habitos-dos-milionarios.mp4",
+  "iniciado_em": "2026-11-06T21:44:18-03:00"
  },
  {
   "id": "story-033",
