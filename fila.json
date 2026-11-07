@@ -835,7 +835,7 @@
   "id": "orig-033",
   "versao": "original",
   "agendado_para": "2026-11-07T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "hotel-cativeiro",
   "isbn": "9786550478674",
   "titulo": "Hotel Cativeiro",
@@ -853,7 +853,10 @@
    "img/hotel-cativeiro-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-07T07:42:49-03:00"
+  "iniciado_em": "2026-11-07T07:42:49-03:00",
+  "publicado_em": "2026-11-07T07:46:18-03:00",
+  "media_id": "18120230152771296",
+  "permalink": "https://www.instagram.com/p/Dfb_tjXCLMx/"
  },
  {
   "id": "orig-034",
