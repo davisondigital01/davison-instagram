@@ -914,7 +914,7 @@
   "id": "orig-036",
   "versao": "original",
   "agendado_para": "2026-11-07T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "mais-que-amigo-lider",
   "isbn": "9786550478339",
   "titulo": "Mais que amigo, líder",
@@ -931,7 +931,8 @@
    "img/mais-que-amigo-lider-06.jpg",
    "img/mais-que-amigo-lider-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-07T21:42:28-03:00"
  },
  {
   "id": "orig-037",
