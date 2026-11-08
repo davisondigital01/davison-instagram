@@ -966,7 +966,7 @@
   "id": "orig-038",
   "versao": "original",
   "agendado_para": "2026-11-08T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "marco-aurelio-o-imperador-estoico",
   "isbn": "9786550478537",
   "titulo": "Marco Aurélio, o Imperador Estoico",
@@ -983,7 +983,8 @@
    "img/marco-aurelio-o-imperador-estoico-06.jpg",
    "img/marco-aurelio-o-imperador-estoico-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-08T12:42:15-03:00"
  },
  {
   "id": "orig-039",
