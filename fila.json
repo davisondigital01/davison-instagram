@@ -2024,13 +2024,15 @@
   "versao": "original",
   "depende": "orig-038",
   "agendado_para": "2026-11-08T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "marco-aurelio-o-imperador-estoico",
   "isbn": "9786550478537",
   "titulo": "Marco Aurélio, o Imperador Estoico",
   "autor": "Donald Robertson",
   "video": "vid/marco-aurelio-o-imperador-estoico.mp4",
-  "iniciado_em": "2026-11-08T12:43:59-03:00"
+  "iniciado_em": "2026-11-08T12:43:59-03:00",
+  "publicado_em": "2026-11-08T12:45:28-03:00",
+  "media_id": "17972844984189971"
  },
  {
   "id": "story-039",
