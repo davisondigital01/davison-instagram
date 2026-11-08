@@ -2005,13 +2005,15 @@
   "versao": "original",
   "depende": "orig-037",
   "agendado_para": "2026-11-08T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "mais-esperto-que-o-diabo",
   "isbn": "9788568014004",
   "titulo": "Mais esperto que o diabo",
   "autor": "Napoleon Hill",
   "video": "vid/mais-esperto-que-o-diabo.mp4",
-  "iniciado_em": "2026-11-08T07:44:57-03:00"
+  "iniciado_em": "2026-11-08T07:44:57-03:00",
+  "publicado_em": "2026-11-08T07:46:06-03:00",
+  "media_id": "17940932610385747"
  },
  {
   "id": "story-038",
