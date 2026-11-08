@@ -2043,12 +2043,13 @@
   "versao": "original",
   "depende": "orig-039",
   "agendado_para": "2026-11-08T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "mais-esperto-que-o-diabo-2",
   "isbn": "9786550475239",
   "titulo": "Mais Esperto que o Diabo 2",
   "autor": "Fundação Napoleon Hill",
-  "video": "vid/mais-esperto-que-o-diabo-2.mp4"
+  "video": "vid/mais-esperto-que-o-diabo-2.mp4",
+  "iniciado_em": "2026-11-08T18:43:46-03:00"
  },
  {
   "id": "story-040",
