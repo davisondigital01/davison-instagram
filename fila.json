@@ -992,7 +992,7 @@
   "id": "orig-039",
   "versao": "original",
   "agendado_para": "2026-11-08T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "mais-esperto-que-o-diabo-2",
   "isbn": "9786550475239",
   "titulo": "Mais Esperto que o Diabo 2",
@@ -1009,7 +1009,8 @@
    "img/mais-esperto-que-o-diabo-2-06.jpg",
    "img/mais-esperto-que-o-diabo-2-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-08T18:42:36-03:00"
  },
  {
   "id": "orig-040",
