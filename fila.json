@@ -940,7 +940,7 @@
   "id": "orig-037",
   "versao": "original",
   "agendado_para": "2026-11-08T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "mais-esperto-que-o-diabo",
   "isbn": "9788568014004",
   "titulo": "Mais esperto que o diabo",
@@ -957,7 +957,8 @@
    "img/mais-esperto-que-o-diabo-06.jpg",
    "img/mais-esperto-que-o-diabo-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-08T07:43:44-03:00"
  },
  {
   "id": "orig-038",
