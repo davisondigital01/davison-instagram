@@ -2119,13 +2119,15 @@
   "versao": "original",
   "depende": "orig-043",
   "agendado_para": "2026-11-09T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "mentalidade-de-alto-nivel",
   "isbn": "9786550477851",
   "titulo": "Mentalidade de alto nível",
   "autor": "Vinícius Iracet",
   "video": "vid/mentalidade-de-alto-nivel.mp4",
-  "iniciado_em": "2026-11-09T18:44:01-03:00"
+  "iniciado_em": "2026-11-09T18:44:01-03:00",
+  "publicado_em": "2026-11-09T18:45:02-03:00",
+  "media_id": "18126539956906609"
  },
  {
   "id": "story-044",
