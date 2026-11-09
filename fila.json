@@ -2081,12 +2081,13 @@
   "versao": "original",
   "depende": "orig-041",
   "agendado_para": "2026-11-09T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "negociai-ate-que-eu-volte",
   "isbn": "9786550478551",
   "titulo": "Negociai até que Eu volte",
   "autor": "Daniel Cardoso",
-  "video": "vid/negociai-ate-que-eu-volte.mp4"
+  "video": "vid/negociai-ate-que-eu-volte.mp4",
+  "iniciado_em": "2026-11-09T07:44:22-03:00"
  },
  {
   "id": "story-042",
