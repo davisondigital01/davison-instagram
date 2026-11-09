@@ -2062,12 +2062,13 @@
   "versao": "original",
   "depende": "orig-040",
   "agendado_para": "2026-11-08T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "meditacoes-marco-aurelio",
   "isbn": "9786587885339",
   "titulo": "Meditações",
   "autor": "Marco Aurélio",
-  "video": "vid/meditacoes-marco-aurelio.mp4"
+  "video": "vid/meditacoes-marco-aurelio.mp4",
+  "iniciado_em": "2026-11-08T21:44:59-03:00"
  },
  {
   "id": "story-041",
