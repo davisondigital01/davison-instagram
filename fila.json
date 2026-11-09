@@ -1096,7 +1096,7 @@
   "id": "orig-043",
   "versao": "original",
   "agendado_para": "2026-11-09T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "mentalidade-de-alto-nivel",
   "isbn": "9786550477851",
   "titulo": "Mentalidade de alto nível",
@@ -1113,7 +1113,8 @@
    "img/mentalidade-de-alto-nivel-06.jpg",
    "img/mentalidade-de-alto-nivel-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-09T18:42:43-03:00"
  },
  {
   "id": "orig-044",
