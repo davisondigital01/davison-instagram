@@ -1018,7 +1018,7 @@
   "id": "orig-040",
   "versao": "original",
   "agendado_para": "2026-11-08T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "meditacoes-marco-aurelio",
   "isbn": "9786587885339",
   "titulo": "Meditações",
@@ -1036,7 +1036,9 @@
    "img/meditacoes-marco-aurelio-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-08T21:43:03-03:00"
+  "iniciado_em": "2026-11-08T21:43:03-03:00",
+  "publicado_em": "2026-11-08T21:44:52-03:00",
+  "media_id": "18351970024264256"
  },
  {
   "id": "orig-041",
