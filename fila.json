@@ -1070,7 +1070,7 @@
   "id": "orig-042",
   "versao": "original",
   "agendado_para": "2026-11-09T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "noites-brancas-dostoievski",
   "isbn": "9786550478650",
   "titulo": "Noites Brancas",
@@ -1087,7 +1087,8 @@
    "img/noites-brancas-dostoievski-06.jpg",
    "img/noites-brancas-dostoievski-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-09T12:43:07-03:00"
  },
  {
   "id": "orig-043",
