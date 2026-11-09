@@ -2100,13 +2100,15 @@
   "versao": "original",
   "depende": "orig-042",
   "agendado_para": "2026-11-09T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "noites-brancas-dostoievski",
   "isbn": "9786550478650",
   "titulo": "Noites Brancas",
   "autor": "Fiódor Dostoiévski",
   "video": "vid/noites-brancas-dostoievski.mp4",
-  "iniciado_em": "2026-11-09T12:44:23-03:00"
+  "iniciado_em": "2026-11-09T12:44:23-03:00",
+  "publicado_em": "2026-11-09T12:45:25-03:00",
+  "media_id": "18036886481895771"
  },
  {
   "id": "story-043",
