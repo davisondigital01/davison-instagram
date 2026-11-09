@@ -1044,7 +1044,7 @@
   "id": "orig-041",
   "versao": "original",
   "agendado_para": "2026-11-09T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "negociai-ate-que-eu-volte",
   "isbn": "9786550478551",
   "titulo": "Negociai até que Eu volte",
@@ -1061,7 +1061,8 @@
    "img/negociai-ate-que-eu-volte-06.jpg",
    "img/negociai-ate-que-eu-volte-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-09T07:42:59-03:00"
  },
  {
   "id": "orig-042",
