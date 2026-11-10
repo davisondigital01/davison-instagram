@@ -2176,12 +2176,13 @@
   "versao": "original",
   "depende": "orig-046",
   "agendado_para": "2026-11-10T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "profissoes-em-colapso",
   "isbn": "9786550478872",
   "titulo": "Profissões em Colapso",
   "autor": "Walter Longo e Cris Partel",
-  "video": "vid/profissoes-em-colapso.mp4"
+  "video": "vid/profissoes-em-colapso.mp4",
+  "iniciado_em": "2026-11-10T12:45:38-03:00"
  },
  {
   "id": "story-047",
