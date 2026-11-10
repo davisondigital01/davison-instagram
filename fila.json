@@ -1174,7 +1174,7 @@
   "id": "orig-046",
   "versao": "original",
   "agendado_para": "2026-11-10T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "profissoes-em-colapso",
   "isbn": "9786550478872",
   "titulo": "Profissões em Colapso",
@@ -1192,7 +1192,9 @@
    "img/profissoes-em-colapso-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-10T12:43:45-03:00"
+  "iniciado_em": "2026-11-10T12:43:45-03:00",
+  "publicado_em": "2026-11-10T12:45:31-03:00",
+  "media_id": "18102293987384949"
  },
  {
   "id": "orig-047",
