@@ -2138,12 +2138,13 @@
   "versao": "original",
   "depende": "orig-044",
   "agendado_para": "2026-11-09T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-livro-secreto-do-escritor",
   "isbn": "9786550478353",
   "titulo": "O Livro Secreto do Escritor – Edição Atualizada",
   "autor": "Lilian Cardoso",
-  "video": "vid/o-livro-secreto-do-escritor.mp4"
+  "video": "vid/o-livro-secreto-do-escritor.mp4",
+  "iniciado_em": "2026-11-09T21:45:05-03:00"
  },
  {
   "id": "story-045",
