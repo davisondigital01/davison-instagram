@@ -1148,7 +1148,7 @@
   "id": "orig-045",
   "versao": "original",
   "agendado_para": "2026-11-10T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "metodo-yellowfisic",
   "isbn": "9786550470524",
   "titulo": "Método de ativação quântica Yellowfisic",
@@ -1166,7 +1166,9 @@
    "img/metodo-yellowfisic-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-10T07:43:11-03:00"
+  "iniciado_em": "2026-11-10T07:43:11-03:00",
+  "publicado_em": "2026-11-10T07:44:21-03:00",
+  "media_id": "18123046523515750"
  },
  {
   "id": "orig-046",
