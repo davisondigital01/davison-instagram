@@ -2157,12 +2157,13 @@
   "versao": "original",
   "depende": "orig-045",
   "agendado_para": "2026-11-10T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "metodo-yellowfisic",
   "isbn": "9786550470524",
   "titulo": "Método de ativação quântica Yellowfisic",
   "autor": "William Sanches",
-  "video": "vid/metodo-yellowfisic.mp4"
+  "video": "vid/metodo-yellowfisic.mp4",
+  "iniciado_em": "2026-11-10T07:44:28-03:00"
  },
  {
   "id": "story-046",
