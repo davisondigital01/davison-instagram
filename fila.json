@@ -2195,12 +2195,13 @@
   "versao": "original",
   "depende": "orig-047",
   "agendado_para": "2026-11-10T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "nao-e-milagre-joel-jota",
   "isbn": "9786550475499",
   "titulo": "Não é milagre!",
   "autor": "Joel Jota",
-  "video": "vid/nao-e-milagre-joel-jota.mp4"
+  "video": "vid/nao-e-milagre-joel-jota.mp4",
+  "iniciado_em": "2026-11-10T18:43:44-03:00"
  },
  {
   "id": "story-048",
