@@ -2233,12 +2233,13 @@
   "versao": "original",
   "depende": "orig-049",
   "agendado_para": "2026-11-11T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-apagamento",
   "isbn": "9786550477110",
   "titulo": "O apagamento",
   "autor": "Eslen Delanogare",
-  "video": "vid/o-apagamento.mp4"
+  "video": "vid/o-apagamento.mp4",
+  "iniciado_em": "2026-11-11T07:43:45-03:00"
  },
  {
   "id": "story-050",
