@@ -1252,7 +1252,7 @@
   "id": "orig-049",
   "versao": "original",
   "agendado_para": "2026-11-11T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-apagamento",
   "isbn": "9786550477110",
   "titulo": "O apagamento",
@@ -1269,7 +1269,8 @@
    "img/o-apagamento-06.jpg",
    "img/o-apagamento-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-11T07:42:28-03:00"
  },
  {
   "id": "orig-050",
