@@ -1226,7 +1226,7 @@
   "id": "orig-048",
   "versao": "original",
   "agendado_para": "2026-11-10T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "quando-o-amor-recomeca",
   "isbn": "9786550478599",
   "titulo": "Quando o Amor Recomeça",
@@ -1244,7 +1244,9 @@
    "img/quando-o-amor-recomeca-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-10T21:42:31-03:00"
+  "iniciado_em": "2026-11-10T21:42:31-03:00",
+  "publicado_em": "2026-11-10T21:44:29-03:00",
+  "media_id": "17976056937165037"
  },
  {
   "id": "orig-049",
