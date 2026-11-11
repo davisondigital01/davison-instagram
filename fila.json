@@ -2214,13 +2214,15 @@
   "versao": "original",
   "depende": "orig-048",
   "agendado_para": "2026-11-10T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "quando-o-amor-recomeca",
   "isbn": "9786550478599",
   "titulo": "Quando o Amor Recomeça",
   "autor": "Ricardo Martins e Vanessa Lima",
   "video": "vid/quando-o-amor-recomeca.mp4",
-  "iniciado_em": "2026-11-10T21:44:37-03:00"
+  "iniciado_em": "2026-11-10T21:44:37-03:00",
+  "publicado_em": "2026-11-10T21:45:39-03:00",
+  "media_id": "18401418199202494"
  },
  {
   "id": "story-049",
