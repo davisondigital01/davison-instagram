@@ -1278,7 +1278,7 @@
   "id": "orig-050",
   "versao": "original",
   "agendado_para": "2026-11-11T12:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "um-dia-sem-medo",
   "isbn": "9786550478476",
   "titulo": "Um Dia sem Medo",
@@ -1296,7 +1296,9 @@
    "img/um-dia-sem-medo-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-11T12:42:22-03:00"
+  "iniciado_em": "2026-11-11T12:42:22-03:00",
+  "publicado_em": "2026-11-11T12:43:20-03:00",
+  "media_id": "18118573586032525"
  },
  {
   "id": "orig-051",
