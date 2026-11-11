@@ -2271,13 +2271,15 @@
   "versao": "original",
   "depende": "orig-051",
   "agendado_para": "2026-11-11T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "o-homem-que-comprou-o-tempo",
   "isbn": "9786550474461",
   "titulo": "O homem que comprou o tempo",
   "autor": "Thiago Nigro",
   "video": "vid/o-homem-que-comprou-o-tempo.mp4",
-  "iniciado_em": "2026-11-11T18:44:40-03:00"
+  "iniciado_em": "2026-11-11T18:44:40-03:00",
+  "publicado_em": "2026-11-11T18:45:35-03:00",
+  "media_id": "18101604263412600"
  },
  {
   "id": "story-052",
