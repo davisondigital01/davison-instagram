@@ -1304,7 +1304,7 @@
   "id": "orig-051",
   "versao": "original",
   "agendado_para": "2026-11-11T18:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "o-homem-que-comprou-o-tempo",
   "isbn": "9786550474461",
   "titulo": "O homem que comprou o tempo",
@@ -1322,7 +1322,9 @@
    "img/o-homem-que-comprou-o-tempo-07.jpg"
   ],
   "tipo": "carrossel",
-  "iniciado_em": "2026-11-11T18:42:46-03:00"
+  "iniciado_em": "2026-11-11T18:42:46-03:00",
+  "publicado_em": "2026-11-11T18:44:34-03:00",
+  "media_id": "18127920532919944"
  },
  {
   "id": "orig-052",
