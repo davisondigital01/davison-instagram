@@ -2252,12 +2252,13 @@
   "versao": "original",
   "depende": "orig-050",
   "agendado_para": "2026-11-11T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "um-dia-sem-medo",
   "isbn": "9786550478476",
   "titulo": "Um Dia sem Medo",
   "autor": "Juliano Pimentel",
-  "video": "vid/um-dia-sem-medo.mp4"
+  "video": "vid/um-dia-sem-medo.mp4",
+  "iniciado_em": "2026-11-11T12:43:27-03:00"
  },
  {
   "id": "story-051",
