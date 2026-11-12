@@ -2290,13 +2290,15 @@
   "versao": "original",
   "depende": "orig-052",
   "agendado_para": "2026-11-11T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "21-direcoes-vida-fora-da-curva",
   "isbn": "9786550479008",
   "titulo": "21 Direções para uma Vida Fora da Curva",
   "autor": "Vinícius Iracet",
   "video": "vid/21-direcoes-vida-fora-da-curva.mp4",
-  "iniciado_em": "2026-11-11T21:44:24-03:00"
+  "iniciado_em": "2026-11-11T21:44:24-03:00",
+  "publicado_em": "2026-11-11T21:45:23-03:00",
+  "media_id": "18600926347069302"
  },
  {
   "id": "story-053",
