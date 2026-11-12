@@ -1408,7 +1408,7 @@
   "id": "orig-055",
   "versao": "original",
   "agendado_para": "2026-11-12T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "quem-pensa-enriquece-o-legado",
   "isbn": "9788568014547",
   "titulo": "Quem pensa enriquece – O legado",
@@ -1425,7 +1425,8 @@
    "img/quem-pensa-enriquece-o-legado-06.jpg",
    "img/quem-pensa-enriquece-o-legado-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-12T18:42:33-03:00"
  },
  {
   "id": "orig-056",
