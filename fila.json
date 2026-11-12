@@ -1382,7 +1382,7 @@
   "id": "orig-054",
   "versao": "original",
   "agendado_para": "2026-11-12T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "quebrando-o-habito-de-ser-voce-mesmo",
   "isbn": "9788568014325",
   "titulo": "Quebrando o hábito de ser você mesmo",
@@ -1399,7 +1399,8 @@
    "img/quebrando-o-habito-de-ser-voce-mesmo-06.jpg",
    "img/quebrando-o-habito-de-ser-voce-mesmo-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-12T12:42:35-03:00"
  },
  {
   "id": "orig-055",
