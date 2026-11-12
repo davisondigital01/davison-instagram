@@ -2309,13 +2309,15 @@
   "versao": "original",
   "depende": "orig-053",
   "agendado_para": "2026-11-12T07:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "o-manuscrito-original",
   "isbn": "9788568014264",
   "titulo": "O manuscrito original",
   "autor": "Napoleon Hill",
   "video": "vid/o-manuscrito-original.mp4",
-  "iniciado_em": "2026-11-12T07:43:19-03:00"
+  "iniciado_em": "2026-11-12T07:43:19-03:00",
+  "publicado_em": "2026-11-12T07:44:13-03:00",
+  "media_id": "18128574988808220"
  },
  {
   "id": "story-054",
