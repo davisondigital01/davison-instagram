@@ -1356,7 +1356,7 @@
   "id": "orig-053",
   "versao": "original",
   "agendado_para": "2026-11-12T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "o-manuscrito-original",
   "isbn": "9788568014264",
   "titulo": "O manuscrito original",
@@ -1373,7 +1373,8 @@
    "img/o-manuscrito-original-06.jpg",
    "img/o-manuscrito-original-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-12T07:42:08-03:00"
  },
  {
   "id": "orig-054",
