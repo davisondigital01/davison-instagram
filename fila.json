@@ -2347,12 +2347,13 @@
   "versao": "original",
   "depende": "orig-055",
   "agendado_para": "2026-11-12T18:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "quem-pensa-enriquece-o-legado",
   "isbn": "9788568014547",
   "titulo": "Quem pensa enriquece – O legado",
   "autor": "Napoleon Hill",
-  "video": "vid/quem-pensa-enriquece-o-legado.mp4"
+  "video": "vid/quem-pensa-enriquece-o-legado.mp4",
+  "iniciado_em": "2026-11-12T18:43:51-03:00"
  },
  {
   "id": "story-056",
