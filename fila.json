@@ -2328,12 +2328,13 @@
   "versao": "original",
   "depende": "orig-054",
   "agendado_para": "2026-11-12T12:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "quebrando-o-habito-de-ser-voce-mesmo",
   "isbn": "9788568014325",
   "titulo": "Quebrando o hábito de ser você mesmo",
   "autor": "Joe Dispenza",
-  "video": "vid/quebrando-o-habito-de-ser-voce-mesmo.mp4"
+  "video": "vid/quebrando-o-habito-de-ser-voce-mesmo.mp4",
+  "iniciado_em": "2026-11-12T12:43:44-03:00"
  },
  {
   "id": "story-055",
