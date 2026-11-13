@@ -1434,7 +1434,7 @@
   "id": "orig-056",
   "versao": "original",
   "agendado_para": "2026-11-12T21:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "umdiasemreclamar",
   "isbn": "9786587885049",
   "titulo": "#umdiasemreclamar",
@@ -1451,7 +1451,8 @@
    "img/umdiasemreclamar-06.jpg",
    "img/umdiasemreclamar-07.jpg"
   ],
-  "tipo": "carrossel"
+  "tipo": "carrossel",
+  "iniciado_em": "2026-11-12T21:42:47-03:00"
  },
  {
   "id": "orig-057",
