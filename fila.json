@@ -2366,13 +2366,15 @@
   "versao": "original",
   "depende": "orig-056",
   "agendado_para": "2026-11-12T21:41:00-03:00",
-  "status": "publicando",
+  "status": "publicado",
   "slug": "umdiasemreclamar",
   "isbn": "9786587885049",
   "titulo": "#umdiasemreclamar",
   "autor": "Marcelo Galuppo e Davi Lago",
   "video": "vid/umdiasemreclamar.mp4",
-  "iniciado_em": "2026-11-12T21:44:00-03:00"
+  "iniciado_em": "2026-11-12T21:44:00-03:00",
+  "publicado_em": "2026-11-12T21:44:59-03:00",
+  "media_id": "17929685697426072"
  },
  {
   "id": "story-057",
