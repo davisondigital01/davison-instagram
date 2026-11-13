@@ -2385,12 +2385,13 @@
   "versao": "original",
   "depende": "orig-057",
   "agendado_para": "2026-11-13T07:41:00-03:00",
-  "status": "pendente",
+  "status": "publicando",
   "slug": "voce-e-o-placebo",
   "isbn": "9786550470043",
   "titulo": "Você é o placebo",
   "autor": "Joe Dispenza",
-  "video": "vid/voce-e-o-placebo.mp4"
+  "video": "vid/voce-e-o-placebo.mp4",
+  "iniciado_em": "2026-11-13T07:43:04-03:00"
  },
  {
   "id": "reel-001",
